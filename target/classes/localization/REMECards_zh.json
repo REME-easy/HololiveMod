@@ -1,0 +1,643 @@
+{
+  "Hololive_Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "Hololive_Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "Hololive_OvertimeWork": {
+    "NAME": "加班加点",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 随机将一张无色牌置入手牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 随机将一张无色牌置入手牌，本回合为0费。"
+  },
+  "Hololive_Rebound": {
+    "NAME": "那就是敌人了呢",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 对随机敌人造成 !B! 点伤害。 NL (伤害受 敏捷 加成)",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 对随机敌人造成 !B! 点伤害。 NL (伤害受 敏捷 加成)"
+  },
+  "Hololive_Sequa": {
+    "NAME": "只夸",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得一张攻击牌。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 获得一张攻击牌。"
+  },
+  "Hololive_IdolExercise":{
+    "NAME": "偶像练习",
+    "DESCRIPTION": "使你所有队友+1/+1。",
+    "UPGRADE_DESCRIPTION": "使你所有队友+2/+2。"
+  },
+  "Hololive_HuntDinosaur":{
+    "NAME": "抓恐龙",
+    "DESCRIPTION": "使目标获得一层 被追猎 。 NL  消耗 "
+  },
+  "Hololive_MaximGun":{
+    "NAME": "马克沁机枪",
+    "DESCRIPTION": "随机命令 !M! 个队友攻击一次。"
+  },
+  "Hololive_LuckPotion":{
+    "NAME": "幸运药水(毒1:30)",
+    "DESCRIPTION": "使目标获得 !M! 点 中毒 。 NL 获得一张技能牌。"
+  },
+  "Hololive_Breathe":{
+    "NAME": "祭の呼吸",
+    "DESCRIPTION": "获得 !M! 张 *爽到 。"
+  },
+  "Hololive_Yeah":{
+    "NAME": "爽到",
+    "DESCRIPTION": "使目标获得 !M! 点 中毒 。 NL  保留 ， 消耗 "
+  },
+  "Hololive_CocoNews":{
+    "NAME": "早安可可",
+    "DESCRIPTION": " 选择 一个队友+ !M! /+ !M! ，并攻击一次。",
+    "EXTENDED_DESCRIPTION": [
+      "只有拥有队友时才能打出。"
+    ]
+  },
+  "Hololive_Recruit":{
+    "NAME": "yagoo大家族",
+    "DESCRIPTION": " 选择 一张成员牌并置入你的手牌。",
+    "UPGRADE_DESCRIPTION": " 选择 一张成员牌， *升级 并置入你的手牌。"
+  },
+  "Hololive_RecruitS":{
+    "NAME": "yagoo大家族",
+    "DESCRIPTION": " 选择 一张成员牌并置入你的手牌。 NL  消耗 ",
+    "UPGRADE_DESCRIPTION": " 选择 一张成员牌， *升级 并置入你的手牌。 NL  消耗 "
+  },
+  "Hololive_Teleport":{
+    "NAME": "魔法：传送术",
+    "DESCRIPTION": " 魔法 ：一个队友回到手牌且本回合变为0费。 NL  *诗音 在场获得其一张复制。 NL  消耗 ",
+    "EXTENDED_DESCRIPTION": [
+      "只有拥有队友时才能打出。"
+    ]
+  },
+  "Hololive_ILoveYou":{
+    "NAME": "我爱你",
+    "DESCRIPTION": " 选择 一个队友，使其获得+ !M! 生命值和 嘲讽 。",
+    "EXTENDED_DESCRIPTION": [
+      "只有拥有队友时才能打出哦！"
+    ]
+  },
+  "Hololive_RevenueBasedLive":{
+    "NAME": "收益化直播",
+    "DESCRIPTION": "每个敌人给每个vtb打1 *金币 的 *SuperChat 。 NL  消耗 ",
+    "UPGRADE_DESCRIPTION": "每个敌人给每个vtb打1 *金币 的 *SuperChat 。 NL  消耗 ",
+    "EXTENDED_DESCRIPTION": [
+      " NL (可获得",
+      "金币)"
+    ]
+  },
+  "Hololive_SoulCatcher":{
+    "NAME": "捕魂起势",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 4个及以上队友在场时获得一张 *罗刹 和 *阿修罗 。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。 NL 2个及以上队友在场时获得一张 *罗刹 和 *阿修罗 。 "
+  },
+  "Hololive_Nanodesu":{
+    "NAME": "礼貌用语",
+    "DESCRIPTION": "选一个队友，将其消灭。 NL 其他队友攻击一次。",
+    "EXTENDED_DESCRIPTION": [
+      "只有拥有队友时才能打出nanodesu。"
+    ]
+  },
+  "Hololive_DiamondStrike":{
+    "NAME": "钻石打击",
+    "DESCRIPTION": "造成你金币数量1/ !M! 的伤害。 获得一张 *樱巫女 。 NL  消耗 ",
+    "EXTENDED_DESCRIPTION": [
+      " NL (造成",
+      "点伤害)"
+    ]
+  },
+  "Hololive_SummonFox":{
+    "NAME": "虎符咒",
+    "DESCRIPTION": "召唤 *白上吹雪 。 NL  *吹雪 在场改为召唤 *黑上 。 NL  消耗 ",
+    "UPGRADE_DESCRIPTION": "召唤 *白上吹雪+ 。 NL  *吹雪 在场改为召唤 *黑上+ 。 NL  消耗 "
+  },
+  "Hololive_Watashimo":{
+    "NAME": "俺也一样",
+    "DESCRIPTION": "触发所有队友的 结尾 效果。 NL  消耗 ",
+    "UPGRADE_DESCRIPTION": "触发所有队友的 结尾 效果。抽1张牌。 NL  消耗 "
+  },
+  "Hololive_Rebirth":{
+    "NAME": "死灵：复活",
+    "DESCRIPTION": "随机召唤 !M! 个阵亡队友。"
+  },
+  "Hololive_Drill":{
+    "NAME": "魔法：高速旋转",
+    "DESCRIPTION": " 魔法 ：造成 !D! 点伤害 !M! 次。抽1张牌。 NL  *诗音 在场获得1点 力量 。"
+  },
+  "Hololive_ManjiGathering":{
+    "NAME": "卍组集结！",
+    "DESCRIPTION": "获得 !M! 张 *行刑 。 NL 每有一个 卍组成员 在场 *行刑 伤害+1。"
+  },
+  "Hololive_Execute":{
+    "NAME": "行刑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL  消耗 "
+  },
+  "Hololive_StarCraft":{
+    "NAME": "心祭争霸",
+    "DESCRIPTION":" 选择 一个队友，其生命值翻倍。 NL  消耗 ",
+    "EXTENDED_DESCRIPTION": [
+      "没人怎么呼吸呢..捏黑.."
+    ]
+  },
+  "Hololive_OverLoad":{
+    "NAME": "过载",
+    "DESCRIPTION":" 程序 ： *萝卜子 在场获得 !M! 张属于场上其他队友的牌。",
+    "EXTENDED_DESCRIPTION": [
+      "不行呀..我不想打出这张卡.."
+    ]
+  },
+  "Hololive_Trident":{
+    "NAME": "三叉戟",
+    "DESCRIPTION":"造成 !D! 点伤害。 NL 抽到时附魔。",
+    "EXTENDED_DESCRIPTION":[
+      " NL  *穿刺 ：对所有敌人造成伤害。",
+      " NL  *忠诚 ：打出后回到手牌。",
+      " NL  *激流 ：抽 !M! 张牌。",
+      " NL  *引雷 ：随机造成 !D! 点伤害。 ",
+      "(穿刺)",
+      "(忠诚)",
+      "(激流)",
+      "(引雷)"
+    ]
+  },
+  "Hololive_BringToTrial":{
+    "NAME": "小粥审判！",
+    "DESCRIPTION":"所有队友获得：\" 受伤 ：随机造成 !D! 点伤害。\" NL (受 *攻击伤害 加成)"
+  },
+  "Hololive_Psychosis":{
+    "NAME": "有点大姐姐的精神病",
+    "DESCRIPTION":" 选择 一个队友，使其+ !M! 攻击力。",
+    "EXTENDED_DESCRIPTION": [
+      "WEIRJ*#@8U1H9849M&*!@ji@!"
+    ]
+  },
+  "Hololive_Yoholoon":{
+    "NAME": "游Holo王",
+    "DESCRIPTION":"获得1层 *余像 和 *势不可挡 。 NL  消耗 "
+  },
+  "Hololive_HighAtkLowDef":{
+    "NAME": "高攻纸防",
+    "DESCRIPTION":"所有队友攻击力和生命值交换。",
+    "UPGRADE_DESCRIPTION": "所有队友攻击力和生命值交换。抽1张牌。"
+  },
+  "Hololive_WolfAndLamb":{
+    "NAME": "羊狼相处",
+    "DESCRIPTION":"所有队友获得：\" 结尾 ：召唤 !M! / !M! 的 *羊 。\""
+  },
+  "Hololive_OpenUp":{
+    "NAME": "开拓",
+    "DESCRIPTION":"消耗手牌中的成员牌，将等量的攻击牌置入你的手牌，且为0费。 NL  消耗 "
+  },
+  "Hololive_FlyingPonyTail":{
+    "NAME": "飞翔的双马尾",
+    "DESCRIPTION":" 固有 。获得 !B! 点格挡。抽 !M! 张牌。 NL  消耗 "
+  },
+  "Hololive_ScarfAndHalo":{
+    "NAME": "天使光环",
+    "DESCRIPTION":"造成 !D! 点伤害。 NL  *天音 阵亡则复活其一并保留额外效果。"
+  },
+  "Hololive_CandyCastle":{
+    "NAME": "糖果堡垒",
+    "DESCRIPTION":"获得1层 敏捷 ， 金属化 ，多层护甲 。获得 !B! 点格挡。 NL  消耗 "
+  },
+  "Hololive_StrengthChampion":{
+    "NAME": "体力冠军",
+    "DESCRIPTION":"选一个队友 + !D! /+ !B! 。 NL (分别受 力量 和 敏捷 影响) NL 可被多次升级。",
+    "EXTENDED_DESCRIPTION": [
+      "只有拥有队友时才能打出。"
+    ]
+  },
+  "Hololive_DevilCharm":{
+    "NAME": "堕恶魔",
+    "DESCRIPTION":"随机 选择 一项：召唤 *常暗永远 、获得 !B! 点格挡。 NL  消耗 "
+  },
+  "Hololive_Spy":{
+    "NAME": "邻国的间谍",
+    "DESCRIPTION":"所有队友获得：\" 追击 ：获得+1/+1。\" NL  消耗 "
+  },
+  "Hololive_ASMR":{
+    "NAME": "奥术魔刃",
+    "DESCRIPTION":"造成等同于所有队友属性与原来差值的伤害。 NL  消耗 ",
+    "UPGRADE_DESCRIPTION":"造成等同于所有队友属性与原来差值的伤害。"
+  },
+  "Hololive_BeCareful":{
+    "NAME": "小心夏色祭",
+    "DESCRIPTION":"你和敌人的状态翻倍。 NL  消耗 "
+  },
+  "Hololive_Thief":{
+    "NAME": "盗窃预告！",
+    "DESCRIPTION":"抽 !M! 张牌。获得 [E] 。 NL  消耗 "
+  },
+  "Hololive_AWSL":{
+    "NAME": "精神支柱",
+    "DESCRIPTION":" 不能被打出 ,无法升级。战斗开始时获得1点最大生命值。",
+    "EXTENDED_DESCRIPTION": [
+      "@fubuki@!@fubukifubukifubuki@___@aaaaaaaaaaaaaaaaaaaaaaaaa@"
+    ]
+  },
+  "Hololive_DurableLive":{
+    "NAME": "耐久直播",
+    "DESCRIPTION":"本次战斗你回合结束时，所有队友+1生命。 NL  消耗 ",
+    "UPGRADE_DESCRIPTION": " 固有 。本次战斗你回合结束时，所有队友+1生命。 NL  消耗 "
+  },
+  "Hololive_DDD":{
+    "NAME": "3D化",
+    "DESCRIPTION":"获得 !M! 个成员位。 NL  消耗 "
+  },
+  "Hololive_FlareMind":{
+    "NAME": "火之意志",
+    "DESCRIPTION":"使目标获得 !M! 层 燃烧 。 NL 召唤一个属性值等同于目标 燃烧 层数的 *火 。"
+  },
+  "Hololive_Rasetsu":{
+    "NAME": "罗刹",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 抽一张牌。 NL  保留 ， 消耗 "
+  },
+  "Hololive_Ashura":{
+    "NAME": "阿修罗",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL  保留 ， 消耗 "
+  },
+  "Hololive_Knife":{
+    "NAME": "飞刀",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 抽一张牌。 NL  消耗 "
+  },
+  "Hololive_Blizzard":{
+    "NAME": "魔法：暴雪",
+    "DESCRIPTION": "对所有敌人造成本场战斗中召唤队友总数 !M! 倍的伤害。 NL  *诗音 在场获得 [E] 。 NL  消耗 。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）"
+    ]
+  },
+  "Hololive_CantCallMinions":{
+    "EXTENDED_DESCRIPTION": [
+      "队友数量达到 #r上限 了。",
+      "她社恐"
+    ]
+  },
+  "Hololive_CallFriendA": {
+    "NAME": "【召唤】友人A",
+    "DESCRIPTION": " 追击 ：将一张随机无色牌置入你的抽牌堆。",
+    "UPGRADE_DESCRIPTION": " 开幕 ：抽2张牌。 NL  追击 ：将一张随机无色牌置入你的抽牌堆。"
+  },
+  "Hololive_CallMinatoAqua": {
+    "NAME": "【召唤】湊阿库娅",
+    "DESCRIPTION": "你每使用2张攻击牌，对随机敌人攻击一次。",
+    "UPGRADE_DESCRIPTION": "你每使用2张攻击牌，对随机敌人攻击一次。 NL  结尾 ：获得2点 力量 。",
+    "EXTENDED_DESCRIPTION": [
+      "她社恐"
+    ]
+  },
+  "Hololive_CallTokinoSora": {
+    "NAME": "【召唤】时乃空",
+    "DESCRIPTION": "你的回合开始时，最右边的队友攻击一次。",
+    "UPGRADE_DESCRIPTION": "你的回合开始时，最右边的队友攻击两次。"
+  },
+  "Hololive_CallYuzukiChoco": {
+    "NAME": "【召唤】癒月巧可",
+    "DESCRIPTION": " 结尾 ：使随机队友+2/+2。",
+    "UPGRADE_DESCRIPTION": " 开幕 ， 结尾 ：使随机队友+2/+2。"
+  },
+  "Hololive_CallInugamiKorone": {
+    "NAME": "【召唤】戌神沁音",
+    "DESCRIPTION": " 追击 ：使目标获得1层 虚弱 和 易伤 。",
+    "UPGRADE_DESCRIPTION": " 追击 ：使目标获得1层 虚弱 和 易伤 。 NL  结尾 ：使所有敌人失去1点 力量 。"
+  },
+  "Hololive_CallHoushouMarine": {
+    "NAME": "【召唤】宝钟玛琳",
+    "DESCRIPTION": " 追击 ：召唤 1 个 *船员 。",
+    "UPGRADE_DESCRIPTION": " 追击 ：召唤 1 个 *船员+ 。"
+  },
+  "Hololive_CallMariner": {
+    "NAME": "【召唤】船员",
+    "DESCRIPTION": "每打出一张牌，随机造成3(2)点伤害。",
+    "UPGRADE_DESCRIPTION": "每打出一张牌，随机造成5(3)点伤害。"
+  },
+  "Hololive_CallLamb": {
+    "NAME": "【召唤】羊",
+    "DESCRIPTION": " 结尾 ：获得等同于攻击力的 多层护甲 。",
+    "UPGRADE_DESCRIPTION": " 结尾 ：获得等同于攻击力的 多层护甲 。"
+  },
+  "Hololive_CallFlare": {
+    "NAME": "【召唤】火",
+    "DESCRIPTION": " ",
+    "UPGRADE_DESCRIPTION": " "
+  },
+  "Hololive_CallUsadaPekora": {
+    "NAME": "【召唤】兔田佩克拉",
+    "DESCRIPTION": "你每打出一张牌，使随机敌人获得1层 中毒 。",
+    "UPGRADE_DESCRIPTION": "你每打出一张牌，使所有敌人获得1层 中毒 。",
+    "EXTENDED_DESCRIPTION": [
+      "她社恐"
+    ]
+  },
+  "Hololive_CallNatsuiroMatsuri": {
+    "NAME": "【召唤】夏色祭",
+    "DESCRIPTION": " 受伤 ：获得1张 *爽到+ 。",
+    "UPGRADE_DESCRIPTION": " 受伤 ：获得2张 *爽到+ 。"
+  },
+  "Hololive_CallKiryuuCoco": {
+    "NAME": "【召唤】桐生可可",
+    "DESCRIPTION": "本次战斗你每召唤一个队友，此卡费用减少1点。",
+    "UPGRADE_DESCRIPTION": "本次战斗你每召唤一个队友，此卡费用减少1点。"
+  },
+  "Hololive_CallUruhaRushia": {
+    "NAME": "【召唤】润羽露西娅",
+    "DESCRIPTION": " 追击 ：复活一个阵亡队友的4/4复制。",
+    "UPGRADE_DESCRIPTION": " 追击 ：复活一个阵亡队友的6/6复制。"
+  },
+  "Hololive_CallMurasakiShion": {
+    "NAME": "【召唤】紫咲诗音",
+    "DESCRIPTION": " 结尾 ：获得一张该队友的复制。",
+    "UPGRADE_DESCRIPTION": " 结尾 ：获得一张该队友的复制。"
+  },
+  "Hololive_CallPigeonMan": {
+    "NAME": "【召唤】鸽魔人",
+    "DESCRIPTION": "该队友总是召唤在最右侧。 NL  结尾 ：获得一张该队友的复制。",
+    "UPGRADE_DESCRIPTION": "该队友总是召唤在最右侧。 NL  结尾 ：获得一张该队友的复制。"
+  },
+  "Hololive_CallAkaiHaato": {
+    "NAME": "【召唤】赤井心",
+    "DESCRIPTION": " 开幕 ：使所有队友 NL + !M! 生命值。"
+  },
+  "Hololive_CallShirakamiFubuki": {
+    "NAME": "【召唤】白上吹雪",
+    "DESCRIPTION": "你每召唤一个队友，使其立即攻击一次。",
+    "UPGRADE_DESCRIPTION": "你每召唤一个队友，使其立即攻击一次。 NL  结尾 ：最右边的队友攻击一次。"
+  },
+  "Hololive_CallUfubuki": {
+    "NAME": "【召唤】黑下吸火",
+    "DESCRIPTION": "攻击2次。",
+    "UPGRADE_DESCRIPTION": "攻击3次。"
+  },
+  "Hololive_CallShiroganeNoel": {
+    "NAME": "【召唤】白银诺艾尔",
+    "DESCRIPTION": " 受伤 ：随机攻击敌人。",
+    "UPGRADE_DESCRIPTION": " 嘲讽  NL  受伤 ：随机攻击敌人。"
+  },
+  "Hololive_CallRoboco": {
+    "NAME": "【召唤】萝卜子",
+    "DESCRIPTION": " 攻击 代替为计算出需求并从 *伤害 、 *格挡 中做出选择。",
+    "UPGRADE_DESCRIPTION": " 攻击 代替为计算出需求并从 *给予程序牌和伤害 、 *格挡 中做出选择。"
+  },
+  "Hololive_CallSakuraMiko": {
+    "NAME": "【召唤】樱巫女",
+    "DESCRIPTION": "队友 攻击 时，获得1枚 *金币 。",
+    "UPGRADE_DESCRIPTION": "队友 攻击 时，获得1枚 *金币 。 NL  结尾 ：对随机敌人造成 *金币 量1/25的伤害。"
+  },
+  "Hololive_CallHoshimachiSuisei": {
+    "NAME": "【召唤】星街彗星",
+    "DESCRIPTION": "同时攻击所有敌人。 NL 如果只有一个敌人造成2倍伤害。",
+    "UPGRADE_DESCRIPTION": "同时攻击所有敌人。 NL 如果只有一个敌人造成3倍伤害。"
+  },
+  "Hololive_CallYozoraMel": {
+    "NAME": "【召唤】夜空梅露",
+    "DESCRIPTION": " 追击 ：梅露回复等量生命。 NL （最高10点）",
+    "UPGRADE_DESCRIPTION": " 追击 ：你和梅露回复等量生命。 NL （最高10点）"
+  },
+  "Hololive_CallAkiRosenthal": {
+    "NAME": "【召唤】亚绮·罗森塔尔",
+    "DESCRIPTION": "你的 选择 牌多触发一次。",
+    "UPGRADE_DESCRIPTION": "你的 选择 牌触发每一个选项的效果。"
+  },
+  "Hololive_CallNakiriAyame": {
+    "NAME": "【召唤】百鬼绫目",
+    "DESCRIPTION": " 追击 ：将一张 *罗刹 置入你的手牌。",
+    "UPGRADE_DESCRIPTION": " 追击 ：将一张 *罗刹 和 *阿修罗 置入你的手牌。"
+  },
+  "Hololive_CallOzoraSubaru": {
+    "NAME": "【召唤】大空昴",
+    "DESCRIPTION": "你的回合结束时，所有队友+1攻击力。",
+    "UPGRADE_DESCRIPTION": "你的回合开始和结束时，所有队友+1攻击力。"
+  },
+  "Hololive_CallShiranuiFlare": {
+    "NAME": "【召唤】不知火芙蕾雅",
+    "DESCRIPTION": "你每打出一张技能牌，使随机敌人获得1层 燃烧 。",
+    "UPGRADE_DESCRIPTION": "你每打出一张技能牌，使所有敌人获得1层 燃烧 。"
+  },
+  "Hololive_CallAmaneKanata": {
+    "NAME": "【召唤】天音彼方",
+    "DESCRIPTION": " 开幕 ：获得一层 索兰歌声 。"
+  },
+  "Hololive_CallTsunomakiWatame": {
+    "NAME": "【召唤】角卷绵芽",
+    "DESCRIPTION": " 开幕 ：获得3层 多层护甲 。",
+    "UPGRADE_DESCRIPTION": " 开幕 ， 结尾 ：获得3层 多层护甲 。"
+  },
+  "Hololive_CallTokoyamiTowa": {
+    "NAME": "【召唤】常暗永远",
+    "DESCRIPTION": "随机 选择 一项：攻击一次、获得等同于攻击力的格挡。",
+    "UPGRADE_DESCRIPTION": "随机 选择 一项：攻击一次、获得等同于攻击力的格挡。"
+  },
+  "Hololive_CallHimemoriLuna": {
+    "NAME": "【召唤】姬森璐娜",
+    "DESCRIPTION": " 开幕 ：获得你打出的上一张成员牌的未升级版。",
+    "UPGRADE_DESCRIPTION": " 开幕 ：获得你打出的上一张成员牌的升级版。"
+  },
+  "Hololive_CallOkamiMio": {
+    "NAME": "【召唤】大神澪",
+    "DESCRIPTION": "每当一个 队友 阵亡，获得+1/+2。",
+    "UPGRADE_DESCRIPTION": "每当一个 队友 阵亡，获得+2/+3。"
+  },
+  "Hololive_CallNekomataOkayu": {
+    "NAME": "【召唤】猫又小粥",
+    "DESCRIPTION": " 追击 ：触发所有队友的 受伤 效果。",
+    "UPGRADE_DESCRIPTION": " 追击 ：触发所有队友的 受伤 效果。 NL  受伤 ：随机造成3点伤害。"
+  },
+  "Hololive_CallAZKi": {
+    "NAME": "【召唤】AZKi",
+    "DESCRIPTION": " 开幕 ：获得在场队友的复制。"
+  },
+  "Hololive_CallYogiri": {
+    "NAME": "【召唤】夜霧",
+    "DESCRIPTION": "你每打出一张成员牌，将一张 *飞刀 置入你的手牌。",
+    "UPGRADE_DESCRIPTION": "你每打出一张成员牌，将一张 *飞刀+ 置入你的手牌。"
+  },
+  "Hololive_CallCivia": {
+    "NAME": "【召唤】希薇娅",
+    "DESCRIPTION": " 攻击 改为积累能量。 NL  结尾 ：对随机敌人造成等同于能量的伤害。",
+    "UPGRADE_DESCRIPTION": " 攻击 改为积累能量。受伤时也积累能量。 NL  结尾 ：对随机敌人造成等同于能量的伤害。"
+  },
+  "Hololive_CallSpadeEcho": {
+    "NAME": "【召唤】黑桃影",
+    "DESCRIPTION": " 开幕 ：抽一张牌。 NL  追击 ：获得2枚 *金币 。",
+    "UPGRADE_DESCRIPTION": " 开幕 ：抽一张牌。获得 [E] 。 NL  追击 ：获得2枚 *金币 。"
+  },
+  "Hololive_CallRosalyn": {
+    "NAME": "【召唤】罗莎琳",
+    "DESCRIPTION": " 攻击 改为打出抽牌堆顶一张牌的复制。"
+  },
+  "Hololive_CallArtia": {
+    "NAME": "【召唤】阿媂娅",
+    "DESCRIPTION": " 结尾 ： 将一张 *魔法：暴雪 加入你的手牌。",
+    "UPGRADE_DESCRIPTION": " 结尾 ： 将一张 *魔法：暴雪+ 加入你的手牌。"
+  },
+  "Hololive_CallDoris": {
+    "NAME": "【召唤】朵莉丝",
+    "DESCRIPTION": "每回合开始时，获得 [E] 。",
+    "UPGRADE_DESCRIPTION": "每回合开始时，获得 [E] 。 NL  开幕 ：获得 [E] 。"
+  },
+  "Hololive_CallAyundaRisu": {
+    "NAME": "【召唤】Ayunda Risu",
+    "DESCRIPTION": " 攻击 为随机造成等量次数的1点伤害。"
+  },
+  "Hololive_CallMoonaHoshinova": {
+    "NAME": "【召唤】Moona Hoshinova",
+    "DESCRIPTION": " 开幕 ： 选择 一张来自所有颜色的牌，打出一张复制。",
+    "UPGRADE_DESCRIPTION": " 开幕 ：从4张中 选择 一张来自所有颜色的牌，打出一张复制。"
+  },
+  "Hololive_CallAiraniIofifteen": {
+    "NAME": "【召唤】Airani Iofifteen",
+    "DESCRIPTION": "伤害到此为止。"
+  },
+  "Hololive_ManjiCombinationOption": {
+    "NAME": "卍组",
+    "DESCRIPTION": " *阿夸 + *诗音 + *ayame :你每打出一张攻击牌，随机队友+1/+1。"
+  },
+  "Hololive_NatsuiroFubukiCombinationOption": {
+    "NAME": "夏色吹雪",
+    "DESCRIPTION": " *祭 + *吹雪 :获得4张 *爽到 。"
+  },
+  "Hololive_PekoMikoCombinationOption": {
+    "NAME": "PekoMiko",
+    "DESCRIPTION": " *peko + *miko :每当你获得 *金币 ，使随机敌人获得1层 中毒 。"
+  },
+  "Hololive_GamersCombinationOption": {
+    "NAME": "Gamers",
+    "DESCRIPTION": " *吹雪 + *mio + *阿汤哥 + *面包狗 :复制你的抽牌堆，洗入你的弃牌堆。"
+  },
+  "Hololive_HappyFamilyCombinationOption": {
+    "NAME": "吉祥三宝",
+    "DESCRIPTION": " *小话痨 + *老大 + *桃子 :你每打出一张成员牌，最左边的队友攻击一次。"
+  },
+  "Hololive_BlondHairCombinationOption": {
+    "NAME": "金发组",
+    "DESCRIPTION": " *心心 + *aki + *阿火 + *羊 + *梅露 + *老师 :获得3层 耐久直播 。"
+  },
+  "Hololive_MeaQuaCombinationOption": {
+    "NAME": "妹阿库娅",
+    "DESCRIPTION": "没有效果。 NL 真的没有。"
+  },
+  "Hololive_FamsCombinationOption": {
+    "NAME": "FAMS",
+    "DESCRIPTION": " *狐狸 + *ayame + *三才 + *四八六 :你抽牌堆所有牌本回合降低1费。"
+  },
+  "Hololive_CatDogCombinationOption": {
+    "NAME": "老猫狗组",
+    "DESCRIPTION": " *一黑一白 :召唤 *鸽魔人 。"
+  },
+  "Hololive_NewCatDogCombinationOption": {
+    "NAME": "新猫狗组",
+    "DESCRIPTION": " *一猫一狗 ：所有敌人获得4层 燃烧 。"
+  },
+  "Hololive_AquaMarineCombinationOption": {
+    "NAME": "海蓝宝石",
+    "DESCRIPTION": " *阿夸 + *船长 ：获得 15 *金币 。"
+  },
+  "Hololive_SoraACombinationOption": {
+    "NAME": "空A",
+    "DESCRIPTION": " *空妈 + *A酱 :你每打出一张无色牌，获得 [E] 。"
+  },
+  "Hololive_NoelFlareCombinationOption": {
+    "NAME": "银火",
+    "DESCRIPTION": " *银 + *火 :你的回合结束时，生命值最低的队友+3生命值。"
+  },
+  "Hololive_MatsuriShionCombinationOption": {
+    "NAME": "夏紫",
+    "DESCRIPTION": " *祭妹 + *小学生 :你每抽到成员牌，将其变为7/7，且为1费。"
+  },
+  "Hololive_ZeroCombinationOption": {
+    "NAME": "零期生",
+    "DESCRIPTION": " *零期生 ： *右键单击 初始遗物：获得一张 *成员牌 。"
+  },
+  "Hololive_OneCombinationOption": {
+    "NAME": "一期生",
+    "DESCRIPTION": " *一期生 ：战斗结束时增加1次卡牌掉落，卡牌奖励选项+1。"
+  },
+  "Hololive_ThreeCombinationOption": {
+    "NAME": "三期生",
+    "DESCRIPTION": " *三期生 ：打出抽牌堆顶3张卡。"
+  },
+  "Hololive_FourCombinationOption": {
+    "NAME": "四期生",
+    "DESCRIPTION": " *四期生 ：你下一次获得 *正面效果 将额外获得4层。"
+  },
+  "Hololive_IdolCombinationOption": {
+    "NAME": "MUSIC",
+    "DESCRIPTION": " *星姐 + *AZKi ：本次战斗你抽到的第一张牌效果变为3倍。"
+  },
+  "Hololive_AllCombinationOption": {
+    "NAME": "全员",
+    "DESCRIPTION": " *全员 ：解锁dd崇皇模式。还没写但成就已解锁，等写完了就可以玩啦 NL 召唤一个boss"
+  },
+  "Hololive_TwoCombinationOption": {
+    "NAME": "二期生",
+    "DESCRIPTION": " *二期生 ：获得2层 缓冲 。获得 [E]  [E] 。"
+  },
+  "Hololive_WatameHaatoCombinationOption": {
+    "NAME": "心羊",
+    "DESCRIPTION": " *猪 + *羊 ：你可以在场上成员已满时打出成员牌，且触发 开幕 。"
+  },
+  "Hololive_MatsuriLunaCombinationOption": {
+    "NAME": "夏娜",
+    "DESCRIPTION": " *公主x2 ：你抽牌堆里所有成员牌+1/+1。"
+  },
+  "Hololive_CocoKanataCombinationOption": {
+    "NAME": "天龙",
+    "DESCRIPTION": " *龙 + *天使 ：抽5张牌。"
+  },
+  "Hololive_CNTwoCombinationOption": {
+    "NAME": "CN二期生",
+    "DESCRIPTION": " *蒜 + *鱼 + *菇 ：队友阵亡时会再攻击一次。"
+  },
+  "Hololive_IDCombinationOption": {
+    "NAME": "Hololive-ID",
+    "DESCRIPTION": " *Risu + *Moona + *Iofi ：获得3点最大生命值。"
+  },
+  "Hololive_ChallengeYagooBigFamily": {
+    "NAME": "挑战1.yagoo大家族",
+    "DESCRIPTION": "yagoo-o,yagoo-o,yagoo-o,yagoo-o..."
+  },
+  "Hololive_ChallengeOneManArmy": {
+    "NAME": "挑战2.只夸",
+    "DESCRIPTION": "只有一人、也不错呢、"
+  },
+  "Hololive_ChallengeTopUpMoney": {
+    "NAME": "挑战3.赌鬼之路",
+    "DESCRIPTION": "还有黄油"
+  },
+  "Hololive_ChallengeYo": {
+    "NAME": "挑战4.摸余",
+    "DESCRIPTION": "今天不播yo"
+  },
+  "Hololive_ChallengeChaos": {
+    "NAME": "挑战5.想要打块",
+    "DESCRIPTION": "我打块把同事打没了"
+  },
+  "Hololive_ChallengeKindergarten": {
+    "NAME": "挑战6.幼儿园",
+    "DESCRIPTION": "温馨的单亲（？）家庭"
+  },
+  "Hololive_ChallengeTheOnlyOne": {
+    "NAME": "挑战7.恭喜毕业",
+    "DESCRIPTION": "（holo特有假哭）"
+  },
+  "Hololive_test": {
+    "NAME": "测试",
+    "DESCRIPTION": "测试卡"
+  },
+  "Hololive_RevenueRecovery": {
+    "NAME": "收益化回收",
+    "DESCRIPTION": " 不能被打出 。 NL 抽到时损失 !M! 金币。",
+    "EXTENDED_DESCRIPTION": [
+      "无法被打出。"
+    ]
+  },
+  "Vtubers_NatsuiroMatsuri": {
+    "NAME": "夏色祭",
+    "DESCRIPTION": ""
+  },
+  "Vtubers_ShirakamiFubuki": {
+    "NAME": "白上吹雪",
+    "DESCRIPTION": ""
+  }
+}

@@ -1,0 +1,298 @@
+﻿{
+  "Hololive_FriendA":{
+    "NAME": "友人A",
+    "DESCRIPTION":[
+      " #y追撃 :ランダムな無色カードを山札に加える。",
+      " #y開始 :カードを2枚引く。 NL  #y追撃 :ランダムな無色カードを山札に加える。"]
+  },
+  "Hololive_MinatoAqua": {
+    "NAME": "湊あくあ",
+    "DESCRIPTION":[
+      " アタックカードを2枚プレイする毎に攻撃する。",
+      " アタックカードを2枚プレイする毎に攻撃する。 NL  #y終了 :筋力 2を得る。"]
+  },
+  "Hololive_TokinoSora": {
+    "NAME": "ときのそら",
+    "DESCRIPTION":[
+      " #yターン開始時 に右端のVtuverが1回攻撃を行う。",
+      " #yターン開始時 に右端のVtuverが2回攻撃を行う。"]
+  },
+  "Hololive_YuzukiChoco": {
+    "NAME": "癒月ちょこ",
+    "DESCRIPTION":[
+      " #y終了 :ランダムなVtuberに +2/+2 を与える。",
+      " #y開始 、 #y終了 :ランダムなVtuberに +2/+2 を与える。"]
+  },
+  "Hololive_InugamiKorone": {
+    "NAME": "戌神ころね",
+    "DESCRIPTION":[
+      " #y追撃 :脱力 1 弱体 1 を与える。",
+      " #y追撃 :脱力 1 弱体 1 を与える。 NL  #y終了 :全ての敵は 筋力 1 を失う。"]
+  },
+  "Hololive_HoushouMarine": {
+    "NAME": "宝鐘マリン",
+    "DESCRIPTION": [
+      " #y追撃 : #y宝鐘の一味 を召喚する。",
+      " #y追撃 : #y宝鐘の一味+ を召喚する。"
+    ]
+  },
+  "Hololive_Mariner": {
+    "NAME": "宝鐘の一味",
+    "DESCRIPTION": [
+      "カードをプレイする度に 3(2) ダメージを与える。",
+      "カードをプレイする度に 5(3) ダメージを与える。"
+    ]
+  },
+  "Hololive_Lamb": {
+    "NAME": "羊",
+    "DESCRIPTION": [
+      " #y終了 :攻撃力の値に等しい #yプレートアーマー を得る。",
+      " #y終了 :攻撃力の値に等しい #yプレートアーマー を得る。"
+    ]
+  },
+  "Hololive_Flare": {
+    "NAME": "フレア",
+    "DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "Hololive_UsadaPekora": {
+    "NAME": "兎田ぺこら",
+    "DESCRIPTION": [
+      "カードをプレイする度にランダムな敵に 毒 1を与える。",
+      "カードをプレイする度に全ての敵に 毒 1を与える。"
+    ]
+  },
+  "Hololive_NatsuiroMatsuri": {
+    "NAME": "夏色まつり",
+    "DESCRIPTION": [
+      " #y反撃 : *Yeah+ を得る。",
+      " #y反撃 : *Yeah+ を2枚得る。"
+    ]
+  },
+  "Hololive_KiryuuCoco": {
+    "NAME": "桐生ココ",
+    "DESCRIPTION": [
+      "召喚カードをプレイする度にコストが1低下する。",
+      "召喚カードをプレイする度にコストが1低下する。"
+    ]
+  },
+  "Hololive_UruhaRushia": {
+    "NAME": "潤羽るしあ",
+    "DESCRIPTION": [
+      " #y追撃 :この戦闘で死亡したVtuverの4/4のコピーを召喚する。",
+      " #y追撃 :この戦闘で死亡したVtuverの6/6のコピーを召喚する。"
+    ]
+  },
+  "Hololive_MurasakiShion": {
+    "NAME": "紫咲シオン",
+    "DESCRIPTION": [
+      " #y終了 :このカードのコピーを得る。",
+      " #y終了 :このカードのコピーを得る。"
+    ]
+  },
+  "Hololive_AkaiHaato": {
+    "NAME": "赤井はあと",
+    "DESCRIPTION": [
+      " #y開始 :Vtuber全員に体力を + 3 与える。",
+      " #y開始 :Vtuber全員に体力を + 4 与える。"
+    ]
+  },
+  "Hololive_ShirakamiFubuki": {
+    "NAME": "白上フブキ",
+    "DESCRIPTION": [
+      " Vtuber召喚時に攻撃する。",
+      " Vtuber召喚時に攻撃する。 NL  #y終了 :右端のVtuberが攻撃する。"
+    ]
+  },
+  "Hololive_ShiroganeNoel": {
+    "NAME": "白銀ノエル",
+    "DESCRIPTION": [
+      " #y反撃 :攻撃する。",
+      " #y挑発  NL  #y反撃 :攻撃する。"
+    ]
+  },
+  "Hololive_Roboco": {
+    "NAME": "ロボ子さん",
+    "DESCRIPTION":[
+      " 攻撃時、 選択 : #y攻撃 or #yブロックを得る 。",
+      " 攻撃時、 選択 : #y攻撃 と #yプログラムカードを得る or #yブロックを得る 。"
+    ]
+  },
+  "Hololive_SakuraMiko": {
+    "NAME": "さくらみこ",
+    "DESCRIPTION":[
+      " Vtuberの攻撃時に1ゴールド得る。",
+      " Vtuberの攻撃時に1ゴールド得る。 NL  #y終了 :ランダムな敵にゴールドの1/25に等しい値のダメージを与える。"
+    ]
+  },
+  "Hololive_HoshimachiSuisei": {
+    "NAME": "星街すいせい",
+    "DESCRIPTION":[
+      " 全ての敵に攻撃する。 NL 敵が1体の場合2倍のダメージを与える。",
+      " 全ての敵に攻撃する。 NL 敵が1体の場合3倍のダメージを与える。"
+    ]
+  },
+  "Hololive_YozoraMel": {
+    "NAME": "夜空メル",
+    "DESCRIPTION":[
+      " #y追撃 :体力に等しい値の攻撃。(上限10)",
+      " #y追撃 :体力に等しい値の攻撃と回復。(上限10)"
+    ]
+  },
+  "Hololive_AkiRosenthal": {
+    "NAME": "アキロゼ",
+    "DESCRIPTION":[
+      " 召喚中にプレイされた 選択 を持つカードの効果を発動させる。",
+      " 召喚中にプレイされた 選択 を持つカードの効果を全て発動させる。"
+    ]
+  },
+  "Hololive_NakiriAyame": {
+    "NAME": "百鬼あやめ",
+    "DESCRIPTION":[
+      " #y追撃 : #y羅刹 を手札に加える。",
+      " #y追撃 : #y羅刹 と #y阿修羅 を手札に加える。"
+    ]
+  },
+  "Hololive_OzoraSubaru": {
+    "NAME": "大空スバル",
+    "DESCRIPTION":[
+      " #yターン終了時 にVtuver全員に攻撃力 +1 を与える。",
+      " #yターン開始時、終了時 にVtuver全員に攻撃力 +1 を与える。"
+    ]
+  },
+  "Hololive_ShiranuiFlare": {
+    "NAME": "不知火フレア",
+    "DESCRIPTION":[
+      " スキルカードをプレイする度にランダムな敵に 炎上 1を与える。",
+      " スキルカードをプレイする度に全ての敵に 炎上 1を与える。"
+    ]
+  },
+  "Hololive_AmaneKanata": {
+    "NAME": "天音かなた",
+    "DESCRIPTION":[
+      " #y開始 : 歌唱 1 を得る。",
+      " #y開始 : 歌唱 1 を得る。"
+    ]
+  },
+  "Hololive_TsunomakiWatame": {
+    "NAME": "角巻わため",
+    "DESCRIPTION":[
+      " #y開始 : #yプレートアーマー 3 を得る。",
+      " #y開始 、 #y終了 : #yプレートアーマー 3 を得る。"
+    ]
+  },
+  "Hololive_TokoyamiTowa": {
+    "NAME": "常闇トワ",
+    "DESCRIPTION":[
+      " 選択 :攻撃 or ブロックを得る。",
+      " 選択 :攻撃 or ブロックを得る。"
+    ]
+  },
+  "Hololive_HimemoriLuna": {
+    "NAME": "姫森ルーナ",
+    "DESCRIPTION":[
+      " #y開始 :最期に召喚したVtuverカードを手札に加える。",
+      " #y開始 :最期に召喚したVtuverカードをアップグレードされた状態で手札に加える。"
+    ]
+  },
+  "Hololive_OkamiMio": {
+    "NAME": "大神ミオ",
+    "DESCRIPTION":[
+      " Vtuverが死亡する度に +1/+2 を得る。",
+      " Vtuverが死亡する度に +2/+3 を得る。"
+    ]
+  },
+  "Hololive_PigeonMan": {
+    "NAME": "ハトタウロス",
+    "DESCRIPTION":[
+      " 常に右端に召喚される。 NL #y終了 :このカードのコピーを得る。",
+      " 常に右端に召喚される。 NL #y終了 :このカードのコピーを得る。"
+    ]
+  },
+  "Hololive_NekomataOkayu": {
+    "NAME": "猫又おかゆ",
+    "DESCRIPTION":[
+      " #y追撃 :Vtuver全員の #y反撃 を発動させる。",
+      " #y追撃 :Vtuver全員の #y反撃 を発動させる。 NL  #y反撃 :ランダムな敵に 3 ダメージを与える。"
+    ]
+  },
+  "Hololive_AZKi": {
+    "NAME": "AZKi",
+    "DESCRIPTION":[
+      " #y開始 :Vtuver全員のコピーを手札に加える。",
+      " #y開始 :Vtuver全員のコピーを手札に加える。"
+    ]
+  },
+  "Hololive_Yogiri": {
+    "NAME": "夜霧",
+    "DESCRIPTION":[
+      " 召喚カードをプレイする度に #yナイフ を手札に加える。",
+      " 召喚カードをプレイする度に #yナイフ+ を手札に加える。"
+    ]
+  },
+  "Hololive_Civia": {
+    "NAME": "Civia",
+    "DESCRIPTION":[
+      " 攻撃時にパワーを得る。 NL #y終了 :ランダムな敵にパワーに等しい値のダメージを与える。",
+      " 攻撃時、#y反撃時 にパワーを得る。 NL #y終了 :ランダムな敵にパワーに等しい値のダメージを与える。"
+    ]
+  },
+  "Hololive_SpadeEcho": {
+    "NAME": "黒桃影",
+    "DESCRIPTION":[
+      " #y開始 :カードを1枚引く。 NL  #y追撃 :2ゴールドを得る。",
+      " #y開始 :カードを1枚引く。 [E] を得る。 NL  #y追撃 :2ゴールドを得る。"
+    ]
+  },
+  "Hololive_Ufubuki": {
+    "NAME": "黒上フブキ",
+    "DESCRIPTION":[
+      " 2回攻撃。",
+      " 3回攻撃。"
+    ]
+  },
+  "Hololive_Rosalyn": {
+    "NAME": "ロサリン",
+    "DESCRIPTION":[
+      " 攻撃の代わりに山札の上のカードのコピーをプレイする。",
+      " 攻撃の代わりに山札の上のカードのコピーをプレイする。"
+    ]
+  },
+  "Hololive_Artia": {
+    "NAME": "アティア",
+    "DESCRIPTION":[
+      " #y終了 : #b魔術:ブリザード を手札に加える。",
+      " #y終了 : #b魔術:ブリザード+ を手札に加える。"
+    ]
+  },
+  "Hololive_Doris": {
+    "NAME": "ドリス",
+    "DESCRIPTION":[
+      " ターン開始時に [E] を得る。",
+      " ターン開始時に [E] を得る。 NL  #y開始 : [E] を得る。"
+    ]
+  },
+  "Hololive_AyundaRisu": {
+    "NAME": "リス",
+    "DESCRIPTION":[
+      " 攻撃力と同じ回数だけランダムに1ダメージを与える。",
+      " 攻撃力と同じ回数だけランダムに1ダメージを与える。"
+    ]
+  },
+  "Hololive_MoonaHoshinova": {
+    "NAME": "ムーナ",
+    "DESCRIPTION":[
+      " #y開始 : ランダムに選出された3枚から1枚 選択 したカードのコピーをプレイする。",
+      " #y開始 : ランダムに選出された4枚から1枚 選択 したカードのコピーをプレイする。"
+    ]
+  },
+  "Hololive_AiraniIofifteen": {
+    "NAME": "イオフィ",
+    "DESCRIPTION":[
+      " 余剰ダメージを後ろに通さない。",
+      " 余剰ダメージを後ろに通さない。"
+    ]
+  }
+}

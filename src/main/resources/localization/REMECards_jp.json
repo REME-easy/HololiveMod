@@ -1,0 +1,635 @@
+﻿{
+  "Hololive_Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": " !B! ブロックを得る。"
+  },
+  "Hololive_Strike": {
+    "NAME": "ストライク",
+    "DESCRIPTION": " !D! ダメージを与える。"
+  },
+  "Hololive_OvertimeWork": {
+    "NAME": "残業",
+    "DESCRIPTION": " !D! ダメージを与える。 NL ランダムな無色カードを手札に加える。",
+    "UPGRADE_DESCRIPTION": " !D!ダメージを与える。 NL ランダムな無色カードをこのターンの間コスト0にして手札に加える。"
+  },
+  "Hololive_Rebound": {
+    "NAME": "じゃあ敵だね？",
+    "DESCRIPTION": " !B! ブロックを得る。 NL ランダムな敵に!B!ダメージを与える。 NL ( 敏捷性 で威力上昇)",
+    "UPGRADE_DESCRIPTION": " !B! ブロックを得る。 NL ランダムな敵に!B!ダメージを与える。 NL ( 敏捷性 で威力上昇)"
+  },
+  "Hololive_Sequa": {
+    "NAME": "自慢",
+    "DESCRIPTION": " !D! ダメージを与える。 NL アタックカードを手札に加える。",
+    "UPGRADE_DESCRIPTION": " !D! ダメージを与える。 NL アタックカードを手札に加える。"
+  },
+  "Hololive_IdolExercise":{
+    "NAME": "アイドルエクササイズ",
+    "DESCRIPTION": " Vtuverたちに +1/+1 与える。",
+    "UPGRADE_DESCRIPTION": "Vtuverたちに +2/+2 与える。"
+  },
+  "Hololive_HuntDinosaur":{
+    "NAME": "恐竜狩り",
+    "DESCRIPTION": " 狩り対象 を与える。 NL   廃棄 "
+  },
+  "Hololive_MaximGun":{
+    "NAME": "マころねガン",
+    "DESCRIPTION": " ランダムな !M! 人のVtuverが攻撃する。"
+  },
+  "Hololive_LuckPotion":{
+    "NAME": "兎田特製のポーション 毒(1:30)",
+    "DESCRIPTION": " 毒 !M! を与える。 NL スキルカードを手札に加える。"
+  },
+  "Hololive_Breathe":{
+    "NAME": "まつりの呼吸",
+    "DESCRIPTION": " *うん を !M! 枚手札に加える。"
+  },
+  "Hololive_Yeah":{
+    "NAME": "うん",
+    "DESCRIPTION": " 毒 !M! を与える。 NL 保留、 廃棄 "
+  },
+  "Hololive_CocoNews":{
+    "NAME": "あさココ",
+    "DESCRIPTION": " 選択 したVtuverに + !M! / + !M! 与えて、攻撃させる。",
+    "EXTENDED_DESCRIPTION": [
+      "Vtuverがいないと使えません!"
+    ]
+  },
+  "Hololive_Recruit":{
+    "NAME": "Yagoo大家族",
+    "DESCRIPTION": " 召喚カードを 選択し 手札に加える。",
+    "UPGRADE_DESCRIPTION": " アップグレードされた召喚カードを 選択し 手札に加える。"
+  },
+  "Hololive_RecruitS":{
+    "NAME": "Yagoo大家族",
+    "DESCRIPTION": " 召喚カードを 選択し 手札に加える。 NL  廃棄 ",
+    "UPGRADE_DESCRIPTION": " アップグレードされた召喚カードを 選択し 手札に加える。 NL  廃棄 "
+  },
+  "Hololive_Teleport":{
+    "NAME": "魔術:テレポート",
+    "DESCRIPTION": " 魔術:Vtuverを手札に戻し、このターンの間コストを0にする。 NL *シオン を選択した場合コピーを得る。 NL  廃棄 ",
+    "EXTENDED_DESCRIPTION": [
+      "Vtuverがいる時のみプレイ可能よ。"
+    ]
+  },
+  "Hololive_ILoveYou":{
+    "NAME": "I Love You",
+    "DESCRIPTION": " 選択 したVtuverに体力 + !M! と 挑発 を与える。",
+    "EXTENDED_DESCRIPTION": [
+      "Vtuverがいないと使えないわよ！"
+    ]
+  },
+  "Hololive_RevenueBasedLive":{
+    "NAME": "収益化ライブ",
+    "DESCRIPTION": "各敵がVtuver全員に *スーパーチャット で 1Gold 投げる。 NL  廃棄 ",
+    "UPGRADE_DESCRIPTION": "各敵がVtuver全員に *スーパーチャット で 1Gold 投げる。 NL  廃棄 ",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( ",
+      " ゴールド得られる。)"
+    ]
+  },
+  "Hololive_SoulCatcher":{
+    "NAME": "ソウルキャッチ",
+    "DESCRIPTION": " 全ての敵に!D!ダメージを与える。 NL Vtuverが4人以上いる場合 *羅刹 と *阿修羅 を手札に加える。",
+    "UPGRADE_DESCRIPTION": " 全ての敵に!D!ダメージを与える。 NL Vtuverが2人以上いる場合 *羅刹 と *阿修羅 を手札に加える。"
+  },
+  "Hololive_Nanodesu":{
+    "NAME": "なのです",
+    "DESCRIPTION": " Vtuverを破壊する。 NL 他のVtuverに攻撃させる。",
+    "EXTENDED_DESCRIPTION": [
+      "Vtuverがいる時のみプレイ可能なのです。"
+    ]
+  },
+  "Hololive_DiamondStrike":{
+    "NAME": "ダイアモンドストライク",
+    "DESCRIPTION": " 1/ !M! ゴールドに等しい値のダメージを与える。 *さくらみこ を得る。 NL  廃棄 ",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( ",
+      " ダメージを与える。)"
+    ]
+  },
+  "Hololive_SummonFox":{
+    "NAME": "黒と白",
+    "DESCRIPTION": " *白上フブキ を召喚する。 NL  *白上フブキ が既に召喚されている場合 *黒上フブキ を召喚する。 NL  廃棄 ",
+    "UPGRADE_DESCRIPTION": " *白上フブキ+ を召喚する。 NL *白上フブキ が既に召喚されている場合 *黒上フブキ+ を召喚する。 NL  廃棄 "
+  },
+  "Hololive_Watashimo":{
+    "NAME": "わたしも+1",
+    "DESCRIPTION": " Vtuver全員の 終了 を発動させる。 NL  廃棄 ",
+    "UPGRADE_DESCRIPTION": " Vtuver全員の 終了 を発動させる。 カードを1枚引く。 NL  廃棄 "
+  },
+  "Hololive_Rebirth":{
+    "NAME": "死霊術:復活",
+    "DESCRIPTION": " この戦闘で死亡したVtuverを !M! 人召喚する。"
+  },
+  "Hololive_Drill":{
+    "NAME": "魔術:高速スピン",
+    "DESCRIPTION": " 魔術 : !D! ダメージを !M! 回与える。カードを1枚引く。 NL  *シオン がいる場合筋力1を得る。"
+  },
+  "Hololive_ManjiGathering":{
+    "NAME": "卍組集合!",
+    "DESCRIPTION": " *処刑 を !M! 枚得る。卍組メンバーの数だけ *処刑 のダメージは増加する。"
+  },
+  "Hololive_Execute":{
+    "NAME": "処刑",
+    "DESCRIPTION": " !D! ダメージを与える。 NL  廃棄 "
+  },
+  "Hololive_StarCraft":{
+    "NAME": "指定暴力団",
+    "DESCRIPTION":" 選択 したVtuverの体力を倍にする。 NL  廃棄 ",
+    "EXTENDED_DESCRIPTION": [
+      "誰も生き残れない..."
+    ]
+  },
+  "Hololive_OverLoad":{
+    "NAME": "過負荷",
+    "DESCRIPTION":" プログラム : *ロボ子さん がいる場合 !M! 枚のVtuverカードを得る。",
+    "EXTENDED_DESCRIPTION": [
+      "あんまりやりたくないよぉ…"
+    ]
+  },
+  "Hololive_Trident":{
+    "NAME": "トライデント",
+    "DESCRIPTION":" !D! ダメージを与える。 NL 引かれた時に強化する。",
+    "EXTENDED_DESCRIPTION":[
+      " NL  *刺突 :全ての敵にダメージを与える。",
+      " NL  *忠誠 :プレイ後手札に戻る。",
+      " NL  *激流 :カードを!M!枚引く。",
+      " NL  *引雷 :ランダムな敵に!D!ダメージを与える。",
+      "(刺突)",
+      "(忠誠)",
+      "(激流)",
+      "(引雷)"
+    ]
+  },
+  "Hololive_BringToTrial":{
+    "NAME": "おかゆ裁判",
+    "DESCRIPTION":" Vtuver全員に:\" 反撃 :ランダムな敵に!D!ダメージを与える。\"を与える。 NL (筋力で威力上昇)"
+  },
+  "Hololive_Psychosis":{
+    "NAME": "サイコパすいせい",
+    "DESCRIPTION":" 選択 したVtuverに攻撃力 + !M! を与える。",
+    "EXTENDED_DESCRIPTION": [
+      "WEIRJ*#@8U1H9849M&*!@ji@!"
+    ]
+  },
+  "Hololive_Yoholoon":{
+    "NAME": "遊ホロ王",
+    "DESCRIPTION":" *残像 1 と *ジャガーノート 1 を得る。 NL  廃棄 "
+  },
+  "Hololive_HighAtkLowDef":{
+    "NAME": "ホロライブのやべーやつ",
+    "DESCRIPTION":" Vtuver全員の攻撃力と体力を入れ替える。",
+    "UPGRADE_DESCRIPTION": " Vtuver全員の攻撃力と体力を入れ替える。カードを1枚引く。"
+  },
+  "Hololive_WolfAndLamb":{
+    "NAME": "狼と羊",
+    "DESCRIPTION":" Vtuver全員に:\" 終了 :召喚 !M! / !M! *羊 .\"を与える。"
+  },
+  "Hololive_OpenUp":{
+    "NAME": "開演",
+    "DESCRIPTION":" 手札の召喚カード全てを 廃棄 する。 NL  廃棄 する度にコストを0のアタックカードを得る。  廃棄 "
+  },
+  "Hololive_FlyingPonyTail":{
+    "NAME": "浮かんだツインテール",
+    "DESCRIPTION":" 天賦  NL !B! ブロックを得る。 NL カードを!M!枚引く。 NL  廃棄 "
+  },
+  "Hololive_ScarfAndHalo":{
+    "NAME": "輪っか",
+    "DESCRIPTION":" !D! ダメージを与える。 NL 全ての強化を付与した *かなた を復活させる。"
+  },
+  "Hololive_CandyCastle":{
+    "NAME": "お菓子の城",
+    "DESCRIPTION":" *敏捷性 1 *金属化 1 *プレートアーマー 1 を得る。 !B!ブロックを得る。 NL  廃棄 "
+  },
+  "Hololive_StrengthChampion":{
+    "NAME": "最強の筋力",
+    "DESCRIPTION":"指定したVtuverに + !D! / !B! を与える。 NL (俊敏性 と 筋力 で強化される) NL このカードは何度でもアップグレードできる。",
+    "EXTENDED_DESCRIPTION": [
+      "Vtuverがいる時のみプレイ可能です。"
+    ]
+  },
+  "Hololive_DevilCharm":{
+    "NAME": "シャイデビル",
+    "DESCRIPTION":" 選択 :召喚 *トワ or !B! ブロックを得る。 NL  廃棄 "
+  },
+  "Hololive_Spy":{
+    "NAME": "隣国のスパイ",
+    "DESCRIPTION":" Vtuver全員に:\" 追撃 : +1/+1 を得る。\"を与える。 NL  廃棄 "
+  },
+  "Hololive_ASMR":{
+    "NAME": "ASMR",
+    "DESCRIPTION":" Vtuverの現在値と初期値の差に等しいダメージを与える。 NL  廃棄 ",
+    "UPGRADE_DESCRIPTION":" Vtuverの現在値と初期値の差に等しいダメージを与える。"
+  },
+  "Hololive_BeCareful":{
+    "NAME": "夏色まつりにご用心",
+    "DESCRIPTION":" 自身と敵全員のバフデバフを二倍にする。 NL  廃棄 "
+  },
+  "Hololive_Thief":{
+    "NAME": "怪盗参上!",
+    "DESCRIPTION":" カードを !M! 枚引く。 [E] を得る。 NL  廃棄 "
+  },
+  "Hololive_AWSL":{
+    "NAME": "心の支え",
+    "DESCRIPTION":" プレイ不可 アップグレード不可 NL 戦闘開始時に最大体力を1増加させる。",
+    "EXTENDED_DESCRIPTION": [
+      "@fubuki@!@fubukifubukifubuki@___@aaaaaaaaaaaaaaaaaaaaaaaaa@"
+    ]
+  },
+  "Hololive_DurableLive":{
+    "NAME": "耐久配信",
+    "DESCRIPTION":" ターン終了時にVtuver全員の体力を +1 する。 NL  廃棄 ",
+    "UPGRADE_DESCRIPTION": "天賦 NL ターン終了時にVtuver全員の体力を +1 する。 NL  廃棄 "
+  },
+  "Hololive_DDD":{
+    "NAME": "3D Live",
+    "DESCRIPTION":" 追加スロットを !M! 得る。 NL  廃棄 "
+  },
+  "Hololive_FlareMind":{
+    "NAME": "炎の意思",
+    "DESCRIPTION":" 炎上 !M! を与える。 敵の 炎上 の値に等しい能力値のフレアを召喚する。"
+  },
+  "Hololive_Rasetsu":{
+    "NAME": "羅刹",
+    "DESCRIPTION": " !D! ダメージを与える。 NL カードを1枚引く。 NL 保留、 廃棄 "
+  },
+  "Hololive_Ashura":{
+    "NAME": "阿修羅",
+    "DESCRIPTION": " !D! ダメージを与える。 NL 保留、 廃棄 "
+  },
+  "Hololive_Knife":{
+    "NAME": "ナイフ",
+    "DESCRIPTION": " !D! ダメージを与える。 NL カードを1枚引く。 NL  廃棄 "
+  },
+  "Hololive_Blizzard":{
+    "NAME": "魔術:ブリザード",
+    "DESCRIPTION": " 全ての敵にこの戦闘中のVtuver召喚数回 !M! ダメージを与える。 NL *シオン を召喚してる場合 [E] を得る。 NL 廃棄",
+    "EXTENDED_DESCRIPTION": [
+      " NL ( !D! ダメージを与える。)"
+    ]
+  },
+  "Hololive_CantCallMinions":{
+    "EXTENDED_DESCRIPTION": [
+      " #r枠が足りなくて これ以上召喚できない",
+      "..."
+    ]
+  },
+  "Hololive_CallFriendA": {
+    "NAME": "召喚:友人A",
+    "DESCRIPTION": " 追撃 :ランダムな無色カードを山札に加える。",
+    "UPGRADE_DESCRIPTION": " 開始 :カードを2枚引く。 NL 追撃 :ランダムな無色カードを山札に加える。"
+  },
+  "Hololive_CallMinatoAqua": {
+    "NAME": "召喚:湊あくあ",
+    "DESCRIPTION": "アタックカードを2枚プレイする毎に攻撃する。",
+    "UPGRADE_DESCRIPTION": "アタックカードを2枚プレイする毎に攻撃する。 NL 終了 :筋力 2を得る。",
+    "EXTENDED_DESCRIPTION": [
+      "She fears."
+    ]
+  },
+  "Hololive_CallTokinoSora": {
+    "NAME": "召喚:ときのそら",
+    "DESCRIPTION": "ターン開始時に右端のVtuverが1回攻撃を行う。",
+    "UPGRADE_DESCRIPTION": "ターン開始時に右端のVtuverが2回攻撃を行う。"
+  },
+  "Hololive_CallYuzukiChoco": {
+    "NAME": "召喚:癒月ちょこ",
+    "DESCRIPTION": "終了 :ランダムなVtuverに +2/+2 を与える。",
+    "UPGRADE_DESCRIPTION": " 開始 、 終了 :ランダムなVtuverに +2/+2 を与える。"
+  },
+  "Hololive_CallInugamiKorone": {
+    "NAME": "召喚:戌神ころね",
+    "DESCRIPTION": " 追撃 : 脱力 1 弱体 1 を与える。",
+    "UPGRADE_DESCRIPTION": " 追撃 : 脱力 1 弱体 1 を与える。 NL 終了 :全ての敵は 筋力 1 を失う。"
+  },
+  "Hololive_CallHoushouMarine": {
+    "NAME": "召喚:宝鐘マリン",
+    "DESCRIPTION": " 追撃 : *宝鐘の一味 を召喚する。",
+    "UPGRADE_DESCRIPTION": " 追撃 : *宝鐘の一味+  を召喚する。"
+  },
+  "Hololive_CallMariner": {
+    "NAME": "召喚:宝鐘の一味",
+    "DESCRIPTION": " カードをプレイする度に 3(2) ダメージを与える。",
+    "UPGRADE_DESCRIPTION": " カードをプレイする度に 5(3) ダメージを与える。"
+  },
+  "Hololive_CallLamb": {
+    "NAME": "召喚:羊",
+    "DESCRIPTION": " 終了 :攻撃力の値に等しい *プレートアーマー を得る。",
+    "UPGRADE_DESCRIPTION": " 終了 :攻撃力の値に等しい *プレートアーマー を得る。"
+  },
+  "Hololive_CallFlare": {
+    "NAME": "召喚:フレア",
+    "DESCRIPTION": " ",
+    "UPGRADE_DESCRIPTION": " "
+  },
+  "Hololive_CallUsadaPekora": {
+    "NAME": "召喚:兎田ぺこら",
+    "DESCRIPTION": "カードをプレイする度にランダムな敵に 毒 1を与える。",
+    "UPGRADE_DESCRIPTION": "カードをプレイする度に全ての敵に 毒 1を与える。",
+    "EXTENDED_DESCRIPTION": [
+      "She fears"
+    ]
+  },
+  "Hololive_CallNatsuiroMatsuri": {
+    "NAME": "召喚:夏色まつり",
+    "DESCRIPTION": " 反撃 : *うん+ を得る。",
+    "UPGRADE_DESCRIPTION": " 反撃 : *うん+ を2枚得る。"
+  },
+  "Hololive_CallKiryuuCoco": {
+    "NAME": "召喚:桐生ココ",
+    "DESCRIPTION": " 召喚カードをプレイする度にコストが1低下する。",
+    "UPGRADE_DESCRIPTION": " 召喚カードをプレイする度にコストが1低下する。"
+  },
+  "Hololive_CallUruhaRushia": {
+    "NAME": "召喚:潤羽るしあ",
+    "DESCRIPTION": " 追撃 :この戦闘で死亡したVtuverの4/4のコピーを召喚する。",
+    "UPGRADE_DESCRIPTION": " 追撃 :この戦闘で死亡したVtuverの6/6のコピーを召喚する。"
+  },
+  "Hololive_CallMurasakiShion": {
+    "NAME": "召喚:紫咲シオン",
+    "DESCRIPTION": " 終了 :このカードのコピーを得る。",
+    "UPGRADE_DESCRIPTION": " 終了 :このカードのコピーを得る。"
+  },
+  "Hololive_CallPigeonMan": {
+    "NAME": "召喚:ハトタウロス",
+    "DESCRIPTION": "常に右端に召喚される。 NL 終了 :このカードのコピーを得る。",
+    "UPGRADE_DESCRIPTION": "常に右端に召喚される。 NL 終了 :このカードのコピーを得る。"
+  },
+  "Hololive_CallAkaiHaato": {
+    "NAME": "召喚:赤井はあと",
+    "DESCRIPTION": " 開始 :Vtuver全員に体力を + !M! 与える。"
+  },
+  "Hololive_CallShirakamiFubuki": {
+    "NAME": "召喚:白上フブキ",
+    "DESCRIPTION": "Vtuver召喚時に攻撃する。",
+    "UPGRADE_DESCRIPTION": "Vtuver召喚時に攻撃する。 NL 終了 :右端のVtuverが攻撃する。"
+  },
+  "Hololive_CallUfubuki": {
+    "NAME": "召喚:黒上フブキ",
+    "DESCRIPTION": "2回攻撃。",
+    "UPGRADE_DESCRIPTION": "3回攻撃。"
+  },
+  "Hololive_CallShiroganeNoel": {
+    "NAME": "召喚:白銀ノエル",
+    "DESCRIPTION": " 反撃 :攻撃する。",
+    "UPGRADE_DESCRIPTION": " 挑発  NL 反撃 :攻撃する。"
+  },
+  "Hololive_CallRoboco": {
+    "NAME": "召喚:ロボ子さん",
+    "DESCRIPTION": "攻撃の代わりに 選択 : *攻撃 or *ブロックを得る 。",
+    "UPGRADE_DESCRIPTION": "攻撃の代わりに 選択 : *攻撃 と *プログラムカードを得る or *ブロックを得る 。"
+  },
+  "Hololive_CallSakuraMiko": {
+    "NAME": "召喚:さくらみこ",
+    "DESCRIPTION": "Vtuverの攻撃時に1ゴールド得る。",
+    "UPGRADE_DESCRIPTION": "Vtuverの攻撃時に1ゴールド得る。 NL 終了 :ランダムな敵にゴールドの1/25に等しい値のダメージを与える。"
+  },
+  "Hololive_CallHoshimachiSuisei": {
+    "NAME": "召喚:星街すいせい",
+    "DESCRIPTION": "全ての敵に攻撃する。 NL 敵が1体の場合2倍のダメージを与える。",
+    "UPGRADE_DESCRIPTION": "全ての敵に攻撃する。 NL 敵が1体の場合3倍のダメージを与える。"
+  },
+  "Hololive_CallYozoraMel": {
+    "NAME": "召喚:夜空メル",
+    "DESCRIPTION": " 追撃 :体力に等しい値の攻撃。(上限10)",
+    "UPGRADE_DESCRIPTION": " 追撃 :体力に等しい値の攻撃と回復。(上限10)"
+  },
+  "Hololive_CallAkiRosenthal": {
+    "NAME": "召喚:アキロゼ",
+    "DESCRIPTION": " 召喚中にプレイされた 選択 を持つカードの効果を発動させる。",
+    "UPGRADE_DESCRIPTION": " 召喚中にプレイされた 選択 を持つカードの効果を全て発動させる。"
+  },
+  "Hololive_CallNakiriAyame": {
+    "NAME": "召喚:百鬼あやめ",
+    "DESCRIPTION": " 追撃 : *羅刹 を手札に加える。",
+    "UPGRADE_DESCRIPTION": " 追撃 : *羅刹 と *阿修羅 を手札に加える。"
+  },
+  "Hololive_CallOzoraSubaru": {
+    "NAME": "召喚:大空スバル",
+    "DESCRIPTION": "ターン終了時にVtuver全員に攻撃力 +1 を与える。",
+    "UPGRADE_DESCRIPTION": "ターン開始時、終了時にVtuver全員に攻撃力 +1 を与える。"
+  },
+  "Hololive_CallShiranuiFlare": {
+    "NAME": "召喚:不知火フレア",
+    "DESCRIPTION": "スキルカードをプレイする度にランダムな敵に 炎上 1を与える。",
+    "UPGRADE_DESCRIPTION": "スキルカードをプレイする度に全ての敵に 炎上 1を与える。"
+  },
+  "Hololive_CallAmaneKanata": {
+    "NAME": "召喚:天音かなた",
+    "DESCRIPTION": " 開始 : 歌唱 1 を得る。"
+  },
+  "Hololive_CallTsunomakiWatame": {
+    "NAME": "召喚:角巻わため",
+    "DESCRIPTION": " 開始 : *プレートアーマー 3 を得る。",
+    "UPGRADE_DESCRIPTION": " 開始 、 終了 : *プレートアーマー 3 を得る。"
+  },
+  "Hololive_CallTokoyamiTowa": {
+    "NAME": "召喚:常闇トワ",
+    "DESCRIPTION": "攻撃の代わりに 選択 :攻撃 or ブロックを得る。",
+    "UPGRADE_DESCRIPTION": "攻撃の代わりに 選択 :攻撃 or ブロックを得る。"
+  },
+  "Hololive_CallHimemoriLuna": {
+    "NAME": "召喚:姫森ルーナ",
+    "DESCRIPTION": " 開始 :最期に召喚したVtuverカードを手札に加える。",
+    "UPGRADE_DESCRIPTION": " 開始 :最期に召喚したVtuverカードをアップグレードされた状態で手札に加える。"
+  },
+  "Hololive_CallOkamiMio": {
+    "NAME": "召喚:大神ミオ",
+    "DESCRIPTION": "Vtuverが死亡する度に +1/+2 を得る。",
+    "UPGRADE_DESCRIPTION": "Vtuverが死亡する度に +2/+3 を得る。"
+  },
+  "Hololive_CallNekomataOkayu": {
+    "NAME": "召喚:猫又おかゆ",
+    "DESCRIPTION": " 追撃 :Vtuver全員の 反撃 を発動させる。",
+    "UPGRADE_DESCRIPTION": " 追撃 :Vtuver全員の 反撃 を発動させる。 NL  反撃 :ランダムな敵に 3 ダメージを与える。"
+  },
+  "Hololive_CallAZKi": {
+    "NAME": "召喚:AZKi",
+    "DESCRIPTION": " 開始 :召喚されているVtuver全員のコピーを手札に加える。"
+  },
+  "Hololive_CallYogiri": {
+    "NAME": "召喚:夜霧",
+    "DESCRIPTION": " 召喚カードをプレイする度に *ナイフ を手札に加える。",
+    "UPGRADE_DESCRIPTION": " 召喚カードをプレイする度に *ナイフ+ を手札に加える。"
+  },
+  "Hololive_CallCivia": {
+    "NAME": "召喚:Civia",
+    "DESCRIPTION": " 攻撃の代わりに パワー を得る。 NL  終了 :ランダムな敵に パワー に等しい値のダメージを与える。",
+    "UPGRADE_DESCRIPTION": " 攻撃、 反撃 の代わりに パワー を得る。 NL  終了 :ランダムな敵に パワー に等しい値のダメージを与える。"
+  },
+  "Hololive_CallSpadeEcho": {
+    "NAME": "召喚:黒桃影",
+    "DESCRIPTION": " 開始 :カードを1枚引く。 NL  追撃 :2ゴールドを得る。",
+    "UPGRADE_DESCRIPTION": " 開始 :カードを1枚引く。 [E] を得る。 NL  追撃 :2ゴールドを得る。"
+  },
+  "Hololive_CallRosalyn": {
+    "NAME": "召喚:ロサリン",
+    "DESCRIPTION": " 攻撃の代わりに山札の上のカードのコピーをプレイする。"
+  },
+  "Hololive_CallArtia": {
+    "NAME": "召喚:アティア",
+    "DESCRIPTION": " 終了 : *魔術:ブリザード を手札に加える。",
+    "UPGRADE_DESCRIPTION": " 終了 : *魔術:ブリザード+ を手札に加える。"
+  },
+  "Hololive_CallDoris": {
+    "NAME": "召喚:ドリス",
+    "DESCRIPTION": " ターン開始時に [E] を得る。",
+    "UPGRADE_DESCRIPTION": " ターン開始時に [E] を得る。 NL 開始 : [E] を得る。"
+  },
+  "Hololive_CallAyundaRisu": {
+    "NAME": "召喚:リス",
+    "DESCRIPTION": " 攻撃力と同じ回数だけランダムに1ダメージを与える。"
+  },
+  "Hololive_CallMoonaHoshinova": {
+    "NAME": "召喚:ムーナ",
+    "DESCRIPTION": " 開始 : ランダムに選出された3枚から1枚 選択 したカードのコピーをプレイする。",
+    "UPGRADE_DESCRIPTION": " 開始 : ランダムに選出された4枚から1枚 選択 したカードのコピーをプレイする。"
+  },
+  "Hololive_CallAiraniIofifteen": {
+    "NAME": "召喚:イオフィ",
+    "DESCRIPTION": " 余剰ダメージを後ろに通さない。"
+  },
+  "Hololive_ManjiCombinationOption": {
+    "NAME": "卍組",
+    "DESCRIPTION": " *あくあ + *シオン + *あやめ :アタックカードをプレイする度にランダムなVtuverに +1/+1 を与える。"
+  },
+  "Hololive_NatsuiroFubukiCombinationOption": {
+    "NAME": "夏色吹雪",
+    "DESCRIPTION": " *まつり + *フブキ : *うん 4枚を得る。"
+  },
+  "Hololive_PekoMikoCombinationOption": {
+    "NAME": "ぺこみこ",
+    "DESCRIPTION": " *ぺこら + *みこ :ゴールドを得る度に、ランダムな敵に 毒 1を与える。"
+  },
+  "Hololive_GamersCombinationOption": {
+    "NAME": "ゲーマーズ",
+    "DESCRIPTION": " *フブキ + *ミオ + *おかゆ + *ころね :山札をコピーしシャッフルして捨て札に加える。"
+  },
+  "Hololive_HappyFamilyCombinationOption": {
+    "NAME": "ラッキートリオ",
+    "DESCRIPTION": " *Civia + *夜霧 + *黒桃影 :召喚カードをプレイする度に左端のVtuverが攻撃する。"
+  },
+  "Hololive_BlondHairCombinationOption": {
+    "NAME": "金髪組",
+    "DESCRIPTION": " *はあと + *アキロゼ + *フレア + *わため + *メル + *ちょこ :耐久配信 3枚を得る。"
+  },
+  "Hololive_MeaQuaCombinationOption": {
+    "NAME": " ",
+    "DESCRIPTION": " "
+  },
+  "Hololive_FamsCombinationOption": {
+    "NAME": "FAMS",
+    "DESCRIPTION": " *フブキ + *あやめ + *ミオ + *スバル :このターン全てのカードのコストが1減少する。"
+  },
+  "Hololive_CatDogCombinationOption": {
+    "NAME": "フブミオ",
+    "DESCRIPTION": " *フブキ + *ミオ : *ハトタウロス を召喚する。"
+  },
+  "Hololive_NewCatDogCombinationOption": {
+    "NAME": "おかころ",
+    "DESCRIPTION": " *おかゆ + *ころね :全ての敵は 炎上 4 を得る。"
+  },
+  "Hololive_AquaMarineCombinationOption": {
+    "NAME": "あくあマリン",
+    "DESCRIPTION": " *あくあ + *マリン :15ゴールドを得る。"
+  },
+  "Hololive_SoraACombinationOption": {
+    "NAME": "そらえー",
+    "DESCRIPTION": " *そら + *A :無色カードをプレイする度に [E] を得る。"
+  },
+  "Hololive_NoelFlareCombinationOption": {
+    "NAME": "ノエフレ",
+    "DESCRIPTION": " *ノエル + *フレア :ターン終了時に最も体力の低いVtuverに体力 +3 を与える。"
+  },
+  "Hololive_MatsuriShionCombinationOption": {
+    "NAME": "シオり",
+    "DESCRIPTION": " *まつり + *シオン :引いた召喚カードの能力値を 7/7 コスト1 に変更する。"
+  },
+  "Hololive_ZeroCombinationOption": {
+    "NAME": "Zero",
+    "DESCRIPTION": " *Zero : スターターレリックを *右クリック する事で召喚カードを得る。"
+  },
+  "Hololive_OneCombinationOption": {
+    "NAME": "One",
+    "DESCRIPTION": " *一期生 :戦闘後に得られるカード報酬が1つ増加しカード選択画面で選択できるカードが1枚増加する。"
+  },
+  "Hololive_ThreeCombinationOption": {
+    "NAME": "Three",
+    "DESCRIPTION": " *三期生 :山札の上から3枚のカードをプレイする。"
+  },
+  "Hololive_FourCombinationOption": {
+    "NAME": "Four",
+    "DESCRIPTION": " *四期生 :次に得る *バフ は追加で4得る。"
+  },
+  "Hololive_IdolCombinationOption": {
+    "NAME": "イノナカミュージック",
+    "DESCRIPTION": " *すいせい + *AZKi :この戦闘で最初に引いたカードをプレイした時、効果を3回発動させる。"
+  },
+  "Hololive_AllCombinationOption": {
+    "NAME": "ALL MEMBER",
+    "DESCRIPTION": " *ALL MEMBER :新モードの開放 でもまだ未実装"
+  },
+  "Hololive_TwoCombinationOption": {
+    "NAME": "Two",
+    "DESCRIPTION": " *二期生 : *バッファー 2を得る。 [E]  [E] を得る。"
+  },
+  "Hololive_WatameHaatoCombinationOption": {
+    "NAME": "ラムポーク",
+    "DESCRIPTION": " *わため + *はあと : 枠に空きが無い状態でも召喚カードをプレイする事が可能で 開始 を発動させる。"
+  },
+  "Hololive_MatsuriLunaCombinationOption": {
+    "NAME": "フェスティバルーナ",
+    "DESCRIPTION": " *姫二人 : 山札の召喚カードに +1/+1 を与える。"
+  },
+  "Hololive_CocoKanataCombinationOption": {
+    "NAME": "収益化NG組",
+    "DESCRIPTION": " *ココ + *かなた : カードを5枚引く。"
+  },
+  "Hololive_CNTwoCombinationOption": {
+    "NAME": "ホロ中国2期",
+    "DESCRIPTION": " *アティア + *ドリス + *ロサリン : Vtuver死亡時に攻撃する。"
+  },
+  "Hololive_IDCombinationOption": {
+    "NAME": "ホロライブID",
+    "DESCRIPTION": " *リス + *ムーナ + *イオフィ : 最大HPを3増加させる。"
+  },
+  "Hololive_ChallengeYagooBigFamily": {
+    "NAME": "挑戦1.Yagoo大家族",
+    "DESCRIPTION": " yagoo-o,yagoo-o,yagoo-o,yagoo-o..."
+  },
+  "Hololive_ChallengeOneManArmy": {
+    "NAME": "挑戦2.ワン少女アーミー",
+    "DESCRIPTION": " まだまだ子犬よ"
+  },
+  "Hololive_ChallengeTopUpMoney": {
+    "NAME": "挑戦3.入金",
+    "DESCRIPTION": " とギャルゲー"
+  },
+  "Hololive_ChallengeYo": {
+    "NAME": "挑戦4.今日はむり",
+    "DESCRIPTION": "いまちょっと配信できないわ"
+  },
+  "Hololive_ChallengeChaos": {
+    "NAME": "挑戦5.カオス",
+    "DESCRIPTION": "遊びた～い!"
+  },
+  "Hololive_ChallengeKindergarten": {
+    "NAME": "挑戦6.ようちえん",
+    "DESCRIPTION": "ミオママ!"
+  },
+  "Hololive_ChallengeTheOnlyOne": {
+    "NAME": "挑戦7.卒業式(?)",
+    "DESCRIPTION": "(ホロライブのウソ泣き)"
+  },
+  "Hololive_RevenueRecovery": {
+    "NAME": "収益化の回収",
+    "DESCRIPTION": " プレイ不可 。 NL 引き出した時に !M! 金貨を損する。",
+    "EXTENDED_DESCRIPTION": [
+      "プレイ不可。"
+    ]
+  },
+  "Hololive_test": {
+    "NAME": "test",
+    "DESCRIPTION": "test"
+  }
+}

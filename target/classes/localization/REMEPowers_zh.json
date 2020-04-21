@@ -1,0 +1,52 @@
+{
+  "Hololive_HuntedPower": {
+    "NAME": "被追猎",
+    "DESCRIPTIONS": [
+      "回合结束时每有一种负面效果，受到",
+      "点伤害。"
+    ]
+  },
+  "Hololive_FlarePower": {
+    "NAME": "燃烧",
+    "DESCRIPTIONS": [
+      "每死亡一个队友，受到",
+      "点伤害。"
+    ]
+  },
+  "Hololive_SingPower": {
+  "NAME": "索兰歌声",
+  "DESCRIPTIONS": [
+    "每召唤一个队友，使其属性值都增加",
+    "点。"
+  ]
+},
+  "Hololive_DurableLivePower": {
+    "NAME": "耐久直播",
+    "DESCRIPTIONS": [
+      "你回合结束时，所有队友+",
+      "生命值。"
+    ]
+  },
+  "Hololive_FourPower": {
+    "NAME": "四期生协力",
+    "DESCRIPTIONS": [
+      "你下一次获得正面效果，将额外获得",
+      "层。此效果层数减少 #b1 层。"
+    ]
+  },
+  "Hololive_Hurted": {
+    "DESCRIPTIONS": [
+      " #y受伤 :随机造成","点伤害。"
+    ]
+  },
+  "Hololive_Lamb": {
+    "DESCRIPTIONS": [
+      " #y结尾 ：召唤一只","/","的替罪羊。"
+    ]
+  },
+  "Hololive_Spy": {
+    "DESCRIPTIONS": [
+      " #y追击 ：+","/+","。"
+    ]
+  }
+}

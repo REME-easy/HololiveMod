@@ -1,0 +1,52 @@
+﻿{
+  "Hololive_HuntedPower": {
+    "NAME": "狩り対象",
+    "DESCRIPTIONS": [
+      "ターン終了時に受けているデバフ毎に ",
+      " ダメージを受ける。"
+    ]
+  },
+  "Hololive_FlarePower": {
+    "NAME": "炎上",
+    "DESCRIPTIONS": [
+      "Vtuverが死亡する度に ",
+      " ダメージを受ける。"
+    ]
+  },
+  "Hololive_SingPower": {
+    "NAME": "歌唱",
+    "DESCRIPTIONS": [
+      "召喚した時に攻撃力と体力に +",
+      " を与える。"
+    ]
+  },
+  "Hololive_DurableLivePower": {
+    "NAME": "耐久配信",
+    "DESCRIPTIONS": [
+      "ターン終了時にVtuver全員に体力に +",
+      " を与える。"
+    ]
+  },
+  "Hololive_FourPower": {
+    "NAME": "四期生の協力",
+    "DESCRIPTIONS": [
+      "次に得る *バフ は追加で",
+      "得る。"
+    ]
+  },
+  "Hololive_Hurted": {
+    "DESCRIPTIONS": [
+      " #y反撃 :ランダムな敵に "," ダメージを与える。"
+    ]
+  },
+  "Hololive_Lamb": {
+    "DESCRIPTIONS": [
+      " #y終了 : ","/"," の羊を召喚する。"
+    ]
+  },
+  "Hololive_Spy": {
+    "DESCRIPTIONS": [
+      " #y追撃 :+","/+","。"
+    ]
+  }
+}

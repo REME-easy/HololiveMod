@@ -1,0 +1,129 @@
+{
+  "Hololive_TheStar": {
+    "NAME": "Hololive",
+    "FLAVOR": "Shiny Smily Story！",
+    "DESCRIPTIONS": [
+      "战斗开始时，如果你拥有任何 组合 ，则选择一项能力。 NL 你每拥有4个 组合 ，能力选择次数增加一次。",
+      " NL 1. #y卍组 ：你每打出一张攻击牌，随机队友+1/+1。",
+      " NL 2. #y夏色吹雪 ：获得4张 #y爽到+ 。",
+      " NL 3. #y兔龙 ：当你获得 #y金币 时，使随机敌人获得1层 #g中毒 。",
+      " NL 4. #yGamers ：复制你的抽牌堆，洗入你的弃牌堆。",
+      " NL 5. #y吉祥三宝 ：你每打出一张成员牌，最左边的队友攻击一次。",
+      " NL 6. #y金发组 ：获得3层 耐久直播 。",
+      " NL 7. #meaqua ：还没做",
+      " NL 8. #yfams ：你抽牌堆所有牌本回合降低1费。",
+      " NL 9. #y老猫狗 ：召唤 #r鸽塔洛斯 。",
+      " NL 10. #y新猫狗 ：所有敌人获得4层 #r燃烧 。",
+      " NL 11. #b海蓝宝石 ：获得15 #y金币 。",
+      " NL 12. #b空A ：你每打出一张无色牌，获得 [E] 。",
+      " NL 13. #p夏紫 ：你每抽到成员牌，将其变为7/7，且为1费。",
+      " NL 14.银 #r火 ：你的回合结束时，生命值最低的队友获得+3生命值。",
+      " NL 15. #b零期生 ： #y右键单击 该遗物：获得一张 #y成员牌 。",
+      " NL 16. #b一期生 ：战斗结束时增加 #b1 次卡牌掉落，卡牌奖励选项+ #b1 。",
+      " NL 17. #b二期生 ：获得 #b2 层 缓冲 。获得 [E]  [E] 。",
+      " NL 18. #b三期生 ：打出抽牌堆顶 #b3 张卡。",
+      " NL 19. #b四期生 ：你下一次获得 #y正面效果 将额外获得 #b4 层。",
+      " NL 20. #bMUSIC ：本次战斗你抽到的第一张牌效果变为3倍。",
+      " NL 21. #y全员 ：解锁dd崇皇模式。还没写但成就已解锁，等写完了就可以玩啦",
+      " NL 22. #r心羊 ：你可以在场上成员已满时打出成员牌，且触发 #y开幕 。",
+      " NL 23. #y夏娜 ：你抽牌堆里所有成员牌+1/+1。",
+      " NL 24. #y天龙 ：抽5张牌。",
+      " NL 25. #yCN二期 ：队友阵亡时会再攻击一次。",
+      " NL 26. #yHololiveID ：获得3点最大生命值。"
+    ]
+  },
+  "Hololive_OneManArmy": {
+    "NAME": "只夸",
+    "FLAVOR": "对不起、昨天、装过头了",
+    "DESCRIPTIONS": [
+      "战斗开始时，成员栏位降为1，召唤 #p湊阿库娅 。如果你没有成员，每3回合召唤 #p湊阿库娅 。"
+    ]
+  },
+  "Hololive_YagooBigFamily": {
+    "NAME": "yagoo大家族",
+    "FLAVOR": "yagoo的偶像梦（悲",
+    "DESCRIPTIONS": [
+      "初始卡组为4张特殊的 #yyagoo大家族 。"
+    ]
+  },
+  "Hololive_TopUpMoney": {
+    "NAME": "赌鬼之路",
+    "FLAVOR": "抽！",
+    "DESCRIPTIONS": [
+      "你 #r无法获得 卡牌奖励。 NL  #y右键单击 该遗物：增加1张随机牌到你的手牌，但需要消费 10 #y金币 。",
+      "没有足够的 #y金币 ！"
+    ]
+  },
+  "Hololive_TopUpMoneyS": {
+    "NAME": "赌鬼之路",
+    "FLAVOR": "抽！",
+    "DESCRIPTIONS": [
+      "你 #r无法获得 卡牌奖励。 NL  #y右键单击 该遗物：增加1张随机牌到你的手牌，但需要消费 20 #y金币 。",
+      "没有足够的 #y金币 ！"
+    ]
+  },
+  "Hololive_Yo": {
+    "NAME": "摸余",
+    "FLAVOR": "poyoyo",
+    "DESCRIPTIONS": [
+      "你的成员 #r无法造成 攻击伤害。"
+    ]
+  },
+  "Hololive_Chaos": {
+    "NAME": "想要打块",
+    "FLAVOR": "想把人当块打",
+    "DESCRIPTIONS": [
+      "每当你抽牌，将其 #y费用 、 #y伤害 、 #y格挡 、 #y数值 、 #y成员属性  #r随意调整 。"
+    ]
+  },
+  "Hololive_ChaosS": {
+    "NAME": "想要打块",
+    "FLAVOR": "想把人当块打",
+    "DESCRIPTIONS": [
+      "每当你抽牌，将其 #y费用 、 #y伤害 、 #y格挡 、 #y数值 、 #y成员属性  #r随意调整 。"
+    ]
+  },
+  "Hololive_Kindergarten": {
+    "NAME": "幼儿园",
+    "FLAVOR": "mio妈妈！",
+    "DESCRIPTIONS": [
+      "你抽到的成员牌变为1费1/1。除了 #y大神澪 。 NL FAMS组合效果被此遗物效果覆盖，属正常现象"
+    ]
+  },
+  "Hololive_TheOnlyOne": {
+    "NAME": "恭喜毕业（？）",
+    "FLAVOR": "复活无效（ NL 魔改自留言区",
+    "DESCRIPTIONS": [
+      "你的成员阵亡时，从你的牌组中 #r移除 一张同名卡。"
+    ]
+  },
+  "Hololive_LightStick": {
+    "NAME": "荧光棒",
+    "FLAVOR": "是偶像啊！！！！",
+    "DESCRIPTIONS": [
+      "战斗开始时，如果你没有充能栏位则获得1个。随机召唤一个 #b偶像 并触发 #y开幕 。"
+    ]
+  },
+  "Hololive_Finger": {
+    "NAME": "手指",
+    "FLAVOR": "欧拉迷迭欧拉哟",
+    "DESCRIPTIONS": [
+      "每过 #b5 个回合将一张 #r诅咒 牌洗入你的抽牌堆。",
+      "在回合开始时获得 [E] 。"
+    ]
+  },
+  "Hololive_FriedShrimpLion": {
+    "NAME": "炸虾狮",
+    "FLAVOR": "夏色祭的好朋友（？）",
+    "DESCRIPTIONS": [
+      "战斗开始时，如果你没有 #y夏色祭 则获得1张。 #y夏色祭 每次 受伤 你抽 #b1 张牌。"
+    ]
+  },
+  "Hololive_RiceBall": {
+    "NAME": "饭团",
+    "FLAVOR": "兔子一口能吃俩",
+    "DESCRIPTIONS": [
+      "拾取时，你每有一个遗物，增加 #b1 点生命最大值。"
+    ]
+  }
+}

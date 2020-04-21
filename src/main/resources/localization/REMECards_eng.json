@@ -1,0 +1,635 @@
+{
+  "Hololive_Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "Hololive_Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Hololive_OvertimeWork": {
+    "NAME": "OvertimeWork",
+    "DESCRIPTION": "Deal !D! damage. NL Add a random colorless card to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add a random colorless card to your hand and costs 0 this turn."
+  },
+  "Hololive_Rebound": {
+    "NAME": "Then You Are Enemy",
+    "DESCRIPTION": "Gain !B! Block. NL Deal !B! damage to a random enemy. NL (Dexterity bonus for damage)",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Deal !B! damage to a random enemy. NL (Dexterity bonus for damage)"
+  },
+  "Hololive_Sequa": {
+    "NAME": "Se-qua",
+    "DESCRIPTION": "Deal !D! damage. NL Add an attack card to your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Add an attack card to your hand."
+  },
+  "Hololive_IdolExercise":{
+    "NAME": "Idol Exercise",
+    "DESCRIPTION": "Give your vtubers +1/+1.",
+    "UPGRADE_DESCRIPTION": "Give your vtubers +2/+2."
+  },
+  "Hololive_HuntDinosaur":{
+    "NAME": "Hunt Dinosaur",
+    "DESCRIPTION": "apply 1 Hunted. NL  Exhaust. "
+  },
+  "Hololive_MaximGun":{
+    "NAME": "Ma-korone Gun",
+    "DESCRIPTION": "Randomly make !M! vtuvers attack once."
+  },
+  "Hololive_LuckPotion":{
+    "NAME": "Luck Potion(Poison1:30)",
+    "DESCRIPTION": "Apply !M! Poison. NL Add a skill card to your hand."
+  },
+  "Hololive_Breathe":{
+    "NAME": "Breathe",
+    "DESCRIPTION": "Add !M! *Yeah to your hand."
+  },
+  "Hololive_Yeah":{
+    "NAME": "Yeah",
+    "DESCRIPTION": "Apply !M! Poison. NL  Retain , Exhaust "
+  },
+  "Hololive_CocoNews":{
+    "NAME": "Coco News",
+    "DESCRIPTION": " Choose and give a vtuber + !M! / + !M! ,and attack once.",
+    "EXTENDED_DESCRIPTION": [
+      "Can only be played when you control vtubers."
+    ]
+  },
+  "Hololive_Recruit":{
+    "NAME": "Yagoo Big Family",
+    "DESCRIPTION": " Choose and add a summon card to your hand.",
+    "UPGRADE_DESCRIPTION": " Choose and add an upgraded summon card to your hand."
+  },
+  "Hololive_RecruitS":{
+    "NAME": "Yagoo Big Family",
+    "DESCRIPTION": " Choose and add a summon card to your hand. NL  Exhaust.",
+    "UPGRADE_DESCRIPTION": " Choose and add an upgraded summon card to your hand. NL  Exhaust."
+  },
+  "Hololive_Teleport":{
+    "NAME": "Magic:Teleport",
+    "DESCRIPTION": " Magic:Return a vtuber to your hand and costs 0 this turn. NL  Gain a copy when you control *Shion . NL  Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Can only be played when you control vtubers."
+    ]
+  },
+  "Hololive_ILoveYou":{
+    "NAME": "I Love You",
+    "DESCRIPTION": " Choose and give a vtuber + !M! health and Taunt .",
+    "EXTENDED_DESCRIPTION": [
+      "Can only be played when you control vtubers yo！"
+    ]
+  },
+  "Hololive_RevenueBasedLive":{
+    "NAME": "Revenue Based Live",
+    "DESCRIPTION": "Each enemy gives a *SuperChat of 1 Gold to each vtuber.  NL  Exhaust.",
+    "UPGRADE_DESCRIPTION": "Each enemy gives a *SuperChat of 1 Gold to each vtuber.  NL  Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Can gain ",
+      " Gold)"
+    ]
+  },
+  "Hololive_SoulCatcher":{
+    "NAME": "Soul Catch",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Gain a *Rasetsu and *Ashura to your hand when you control over 4 vtubers.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to all enemies. NL Gain a *Rasetsu and *Ashura to your hand when you control over 2 vtubers."
+  },
+  "Hololive_Nanodesu":{
+    "NAME": "Nanodesu",
+    "DESCRIPTION": "Destroy a vtuber. NL Other vtubers attack once.",
+    "EXTENDED_DESCRIPTION": [
+      "Can only be played when you control vtubers nanodesu."
+    ]
+  },
+  "Hololive_DiamondStrike":{
+    "NAME": "Diamond Strike",
+    "DESCRIPTION": "Deal damage equal to 1/ !M! of your Gold. Gain a *SakuraMiko . NL  Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deal ",
+      " damage.)"
+    ]
+  },
+  "Hololive_SummonFox":{
+    "NAME": "Black and White",
+    "DESCRIPTION": "Summon *ShirakamiFubuki . NL Summon *Ufubuki instead when you control *ShirakamiFubuki . NL  Exhaust.",
+    "UPGRADE_DESCRIPTION": "Summon *ShirakamiFubuki+ . NL Summon *Ufubuki+ instead when you control *ShirakamiFubuki+ . NL  Exhaust."
+  },
+  "Hololive_Watashimo":{
+    "NAME": "Watashimo+1",
+    "DESCRIPTION": "Trigger EndLive of all vtubers. NL  Exhaust.",
+    "UPGRADE_DESCRIPTION": "Trigger EndLive of all vtubers.Draw 1 card. NL  Exhaust."
+  },
+  "Hololive_Rebirth":{
+    "NAME": "Necromancy:Rebirth",
+    "DESCRIPTION": "Summon !M! vtubers that died this battle."
+  },
+  "Hololive_Drill":{
+    "NAME": "Magic:Rapid Spin",
+    "DESCRIPTION": " Magic:Deal !D! damage !M! times.Draw 1 card. NL Gain 1 Strength when you control *Shion ."
+  },
+  "Hololive_ManjiGathering":{
+    "NAME": "Build-up Of Manji",
+    "DESCRIPTION": "Gain !M! *Execute .Increase 1 damage of all *Execute for each ManjiMember you control."
+  },
+  "Hololive_Execute":{
+    "NAME": "Execute",
+    "DESCRIPTION": "Deal !D! damage. NL  Exhaust."
+  },
+  "Hololive_StarCraft":{
+    "NAME": "Criminal Gang",
+    "DESCRIPTION":" Choose and double a vtuber`s health. NL  Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Nobody to breathe..."
+    ]
+  },
+  "Hololive_OverLoad":{
+    "NAME": "OverLoad",
+    "DESCRIPTION":" Program:Gain !M! card belonging to other vtubers when you control *Roboco .",
+    "EXTENDED_DESCRIPTION": [
+      "I dont`t want to play this.."
+    ]
+  },
+  "Hololive_Trident":{
+    "NAME": "Trident",
+    "DESCRIPTION":"Deal !D! damage. NL Enchant when drawn.",
+    "EXTENDED_DESCRIPTION":[
+      " NL  *Impaling :Deal damage to all enemies.",
+      " NL  *Loyalty :Return to hand after played.",
+      " NL  *Riptide :Draw !M! card.",
+      " NL  *Channeling :Deal !D! damage to random enemy. ",
+      "(Impaling)",
+      "(Loyalty)",
+      "(Riptide)",
+      "(Channeling)"
+    ]
+  },
+  "Hololive_BringToTrial":{
+    "NAME": "Bring Her To Trial!",
+    "DESCRIPTION":"Give all vtubers:\" Hurt :Deal !D! damage to random enemy.\" NL (Strength bonus for damage)"
+  },
+  "Hololive_Psychosis":{
+    "NAME": "Psychosis XD",
+    "DESCRIPTION":" Choose and give a vtuber + !M! attack.",
+    "EXTENDED_DESCRIPTION": [
+      "WEIRJ*#@8U1H9849M&*!@ji@!"
+    ]
+  },
+  "Hololive_Yoholoon":{
+    "NAME": "Yo-Holo-On!",
+    "DESCRIPTION":"Gain 1 *AfterImage and *Juggernaut . NL  Exhaust."
+  },
+  "Hololive_HighAtkLowDef":{
+    "NAME": "Passionate Girl",
+    "DESCRIPTION":"Swap attack and health of all vtubers.",
+    "UPGRADE_DESCRIPTION": "Swap attack and health of all vtubers.Draw 1 card."
+  },
+  "Hololive_WolfAndLamb":{
+    "NAME": "Wolf And Sheep",
+    "DESCRIPTION":"Give all vtubers:\" EndLive :Summon a !M! / !M!  *Sheep .\""
+  },
+  "Hololive_OpenUp":{
+    "NAME": "Open Up",
+    "DESCRIPTION":"Exhaust all summon cards in your hand. NL Gain 1 attack card cost 0 for each card Exhausted. NL  Exhaust."
+  },
+  "Hololive_FlyingPonyTail":{
+    "NAME": "Flying Pony Tails",
+    "DESCRIPTION":" Innate .Gain !B! Block.Draw !M! card. NL  Exhaust."
+  },
+  "Hololive_ScarfAndHalo":{
+    "NAME": "Angel Halo",
+    "DESCRIPTION":"Deal !D! damage. NL Resuscitate *Kanata with all Enchantments."
+  },
+  "Hololive_CandyCastle":{
+    "NAME": "Candy Castle",
+    "DESCRIPTION":"Gain 1 Dexterity , *Metallicize , *Plated *Armor .Gain !B! Block. NL  Exhaust."
+  },
+  "Hololive_StrengthChampion":{
+    "NAME": "Strength Champion",
+    "DESCRIPTION":"Give a vtuber + !D! / !B! . NL (Dexterity and Strength bonus for each) NL Can be Upgraded any number of times.",
+    "EXTENDED_DESCRIPTION": [
+      "Can only be played when you control vtubers."
+    ]
+  },
+  "Hololive_DevilCharm":{
+    "NAME": "Shy Devil",
+    "DESCRIPTION":" Choose randomly:Summon *Towa or gain !B! Block. NL  Exhaust."
+  },
+  "Hololive_Spy":{
+    "NAME": "Neighbouring Spy",
+    "DESCRIPTION":"Give all vtubers:\" Pursuit :Gain +1/+1.\" NL  Exhaust."
+  },
+  "Hololive_ASMR":{
+    "NAME": "ASMR",
+    "DESCRIPTION":"Deal damage equal to the difference between vtubers` stats and original ones. NL  Exhaust.",
+    "UPGRADE_DESCRIPTION":"Deal damage equal to the difference between vtubers` stats and original ones."
+  },
+  "Hololive_BeCareful":{
+    "NAME": "BE CAREFUL",
+    "DESCRIPTION":"Double your and all enemies` buff and debuff. NL  Exhaust."
+  },
+  "Hololive_Thief":{
+    "NAME": "I am Thief!",
+    "DESCRIPTION":"Draw !M! cards.Gain [E] . NL  Exhaust."
+  },
+  "Hololive_AWSL":{
+    "NAME": "Spiritual Pillar",
+    "DESCRIPTION":" Unplayable ,Cant be upgraded.Gain 1 max HP when combat starts.",
+    "EXTENDED_DESCRIPTION": [
+      "@fubuki@!@fubukifubukifubuki@___@aaaaaaaaaaaaaaaaaaaaaaaaa@"
+    ]
+  },
+  "Hololive_DurableLive":{
+    "NAME": "Durable Live",
+    "DESCRIPTION":"At the end of your turn,give +1 health to all vtubers. NL  Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate.At the end of your turn,give +1 health to all vtubers. NL  Exhaust."
+  },
+  "Hololive_DDD":{
+    "NAME": "3D Live",
+    "DESCRIPTION":"Gain !M! slots. NL  Exhaust."
+  },
+  "Hololive_FlareMind":{
+    "NAME": "Fire Will",
+    "DESCRIPTION":"Apply !M! Flare.Summon a Flare with stats equal to the monster`s Flare."
+  },
+  "Hololive_Rasetsu":{
+    "NAME": "Rasetsu",
+    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Retain,Exhaust."
+  },
+  "Hololive_Ashura":{
+    "NAME": "Ashura",
+    "DESCRIPTION": "Deal !D! damage. NL  Retain , Exhaust."
+  },
+  "Hololive_Knife":{
+    "NAME": "Knife",
+    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL  Exhaust."
+  },
+  "Hololive_Blizzard":{
+    "NAME": "Magic:Blizzard",
+    "DESCRIPTION": "Deal damage equal to !M! times the number of vtubers summoned this combat to ALL enemies. NL Gain [E] when you control *Shion . NL  Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deal !D! damage.)"
+    ]
+  },
+  "Hololive_CantCallMinions":{
+    "EXTENDED_DESCRIPTION": [
+      "#rMaximum capacity has been met.",
+      "..."
+    ]
+  },
+  "Hololive_CallFriendA": {
+    "NAME": "Summon:FriendA",
+    "DESCRIPTION": " Pursuit :Add a random colorless card to your draw pile.",
+    "UPGRADE_DESCRIPTION": " StartLive :Draw 2 cards. NL  Pursuit :Add a random colorless card to your draw pile."
+  },
+  "Hololive_CallMinatoAqua": {
+    "NAME": "Summon:MinatoAqua",
+    "DESCRIPTION": "Attack once for every two attack cards you use.",
+    "UPGRADE_DESCRIPTION": "Attack once for every two attack cards you use. NL  EndLive :Gain 2 Strength.",
+    "EXTENDED_DESCRIPTION": [
+      "She fears."
+    ]
+  },
+  "Hololive_CallTokinoSora": {
+    "NAME": "Summon:TokinoSora",
+    "DESCRIPTION": "At the start of your turn,the rightmost vtuber attack once.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn,the rightmost vtuber attack twice."
+  },
+  "Hololive_CallYuzukiChoco": {
+    "NAME": "Summon:YuzukiChoco",
+    "DESCRIPTION": " EndLive :Give a random vtuber +2/+2.",
+    "UPGRADE_DESCRIPTION": " Start , EndLive :Give a random vtuber +2/+2."
+  },
+  "Hololive_CallInugamiKorone": {
+    "NAME": "Summon:InugamiKorone",
+    "DESCRIPTION": " Pursuit :Apply 1 Weak and Vulnerable.",
+    "UPGRADE_DESCRIPTION": " Pursuit :Apply 1 Weak and Vulnerable. NL  EndLive :All enemies lose 1 Strength."
+  },
+  "Hololive_CallHoushouMarine": {
+    "NAME": "Summon:HoushouMarine",
+    "DESCRIPTION": " Pursuit :Summon a *Mariner .",
+    "UPGRADE_DESCRIPTION": " Pursuit :Summon a *Mariner+ ."
+  },
+  "Hololive_CallMariner": {
+    "NAME": "Summon:Mariner",
+    "DESCRIPTION": "Whenever you play a card,deal 3(2) damage to random enemy.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a card,deal 5(3) damage to random enemy."
+  },
+  "Hololive_CallLamb": {
+    "NAME": "Summon:Sheep",
+    "DESCRIPTION": " EndLive :Gain *Plated *Armor equal to attack.",
+    "UPGRADE_DESCRIPTION": " EndLive :Gain *Plated *Armor equal to attack."
+  },
+  "Hololive_CallFlare": {
+    "NAME": "Summon:Flare",
+    "DESCRIPTION": " ",
+    "UPGRADE_DESCRIPTION": " "
+  },
+  "Hololive_CallUsadaPekora": {
+    "NAME": "Summon:UsadaPekora",
+    "DESCRIPTION": "Whenever you play a card,apply 1 Poison to random enemy.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a card,apply 1 Poison to all enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "She fears"
+    ]
+  },
+  "Hololive_CallNatsuiroMatsuri": {
+    "NAME": "Summon:NatsuiroMatsuri",
+    "DESCRIPTION": " Hurt :Gain 1 *Yeah+ .",
+    "UPGRADE_DESCRIPTION": " Hurt :Gain 2 *Yeah+ ."
+  },
+  "Hololive_CallKiryuuCoco": {
+    "NAME": "Summon:KiryuuCoco",
+    "DESCRIPTION": "Cost 1 less for each vtuber you summoned this battle.",
+    "UPGRADE_DESCRIPTION": "Cost 1 less for each vtuber you summoned this battle."
+  },
+  "Hololive_CallUruhaRushia": {
+    "NAME": "Summon:UruhaRushia",
+    "DESCRIPTION": " Pursuit :Summon a 4/4 copy of a vtuber that died this battle.",
+    "UPGRADE_DESCRIPTION": " Pursuit :Summon a 6/6 copy of a vtuber that died this battle."
+  },
+  "Hololive_CallMurasakiShion": {
+    "NAME": "Summon:MurasakiShion",
+    "DESCRIPTION": " EndLive :Gain a copy of this.",
+    "UPGRADE_DESCRIPTION": " EndLive :Gain a copy of this."
+  },
+  "Hololive_CallPigeonMan": {
+    "NAME": "Summon:Pinotaurs",
+    "DESCRIPTION": "Always summoned on the far right. NL  EndLive :Gain a copy of this.",
+    "UPGRADE_DESCRIPTION": "Always summoned on the far right. NL  EndLive :Gain a copy of this."
+  },
+  "Hololive_CallAkaiHaato": {
+    "NAME": "Summon:AkaiHaato",
+    "DESCRIPTION": " StartLive :Give all vtubers + !M! health."
+  },
+  "Hololive_CallShirakamiFubuki": {
+    "NAME": "Summon:ShirakamiFubuki",
+    "DESCRIPTION": "Whenever you summon a vtuber,it attack once.",
+    "UPGRADE_DESCRIPTION": "Whenever you summon a vtuber,it attack once. NL  EndLive :Rightmost vtuber attacks once."
+  },
+  "Hololive_CallUfubuki": {
+    "NAME": "Summon:Ufubuki",
+    "DESCRIPTION": "Attack twice.",
+    "UPGRADE_DESCRIPTION": "Attack 3 times."
+  },
+  "Hololive_CallShiroganeNoel": {
+    "NAME": "Summon:ShiroganeNoel",
+    "DESCRIPTION": " Hurt :Attack once.",
+    "UPGRADE_DESCRIPTION": "Taunt NL  Hurt :Attack once."
+  },
+  "Hololive_CallRoboco": {
+    "NAME": "Summon:Roboco",
+    "DESCRIPTION": "When attack,work out and choose from *Attack *Once or *Gain *Block.",
+    "UPGRADE_DESCRIPTION": "When attack,work out and choose from *Attack *Once *And *Give *Program *Card or *Gain *Block."
+  },
+  "Hololive_CallSakuraMiko": {
+    "NAME": "Summon:SakuraMiko",
+    "DESCRIPTION": "Whenever vtuber attacks,gain 1 Gold.",
+    "UPGRADE_DESCRIPTION": "Whenever vtuber attacks,gain 1 Gold. NL  EndLive :Deal damage to random enemy equal to 1/25 of Gold."
+  },
+  "Hololive_CallHoshimachiSuisei": {
+    "NAME": "Summon:HoshimachiSuisei",
+    "DESCRIPTION": "Attack all enemies. NL If only one enemy deals twice the damage.",
+    "UPGRADE_DESCRIPTION": "Attack all enemies. NL If only one enemy deals 3 times the damage."
+  },
+  "Hololive_CallYozoraMel": {
+    "NAME": "Summon:YozoraMel",
+    "DESCRIPTION": " Pursuit :Gain health equal to attack. NL (No more than 10)",
+    "UPGRADE_DESCRIPTION": " Pursuit :Gain health equal to attack and heal you. NL (No more than 10)"
+  },
+  "Hololive_CallAkiRosenthal": {
+    "NAME": "Summon:Aki Rosenthal",
+    "DESCRIPTION": "Your choice card triggers once more.",
+    "UPGRADE_DESCRIPTION": "Your choice card triggers the effect of each option."
+  },
+  "Hololive_CallNakiriAyame": {
+    "NAME": "Summon:NakiriAyame",
+    "DESCRIPTION": " Pursuit :Add a *Rasetsu to your hand.",
+    "UPGRADE_DESCRIPTION": " Pursuit :Add a *Rasetsu and *Ashura to your hand."
+  },
+  "Hololive_CallOzoraSubaru": {
+    "NAME": "Summon:OzoraSubaru",
+    "DESCRIPTION": "At the end of your turn,give all vtubers +1 attack.",
+    "UPGRADE_DESCRIPTION": "At the end and start of your turn,give all vtubers +1 attack."
+  },
+  "Hololive_CallShiranuiFlare": {
+    "NAME": "Summon:ShiranuiFlare",
+    "DESCRIPTION": "Whenever you play a skill card,apply 1 Flare to random enemy.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a skill card,apply 1 Flare to all enemies."
+  },
+  "Hololive_CallAmaneKanata": {
+    "NAME": "Summon:AmaneKanata",
+    "DESCRIPTION": " StartLive :Gain 1 Singing."
+  },
+  "Hololive_CallTsunomakiWatame": {
+    "NAME": "Summon:TsunomakiWatame",
+    "DESCRIPTION": " StartLive :Gain 3 *Plated *Armor.",
+    "UPGRADE_DESCRIPTION": " Start , EndLive :Gain 3 *Plated *Armor."
+  },
+  "Hololive_CallTokoyamiTowa": {
+    "NAME": "Summon:TokoyamiTowa",
+    "DESCRIPTION": "Choose randomly:Attack once or gain Block.",
+    "UPGRADE_DESCRIPTION": "Choose randomly:Attack once or gain Block."
+  },
+  "Hololive_CallHimemoriLuna": {
+    "NAME": "Summon:HimemoriLuna",
+    "DESCRIPTION": " StartLive :Add a not-upgraded copy of the last summon card you played.",
+    "UPGRADE_DESCRIPTION": " StartLive :Add a upgraded copy of the last summon card you played."
+  },
+  "Hololive_CallOkamiMio": {
+    "NAME": "Summon:OkamiMio",
+    "DESCRIPTION": "Whenever a vtuber died,gain +1/+2.",
+    "UPGRADE_DESCRIPTION": "Whenever a vtuber died,gain +2/+3."
+  },
+  "Hololive_CallNekomataOkayu": {
+    "NAME": "Summon:NekomataOkayu",
+    "DESCRIPTION": " Pursuit :trigger  Hurt  of all vtubers.",
+    "UPGRADE_DESCRIPTION": " Pursuit :trigger  Hurt  of all vtubers. NL  Hurt :Deal 3 damage to random enemy."
+  },
+  "Hololive_CallAZKi": {
+    "NAME": "Summon:AZKi",
+    "DESCRIPTION": " StartLive :Add copies of all vtubers you control to your hand."
+  },
+  "Hololive_CallYogiri": {
+    "NAME": "Summon:Yogiri",
+    "DESCRIPTION": "Whenever you play a summon card,add a *Knife to your hand.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a summon card,add a *Knife+ to your hand."
+  },
+  "Hololive_CallCivia": {
+    "NAME": "Summon:Civia",
+    "DESCRIPTION": "Attack changed to power. NL  EndLive :Deal damage to random enemy equal to power.",
+    "UPGRADE_DESCRIPTION": "Attack and hurt changed to power. NL  EndLive :Deal damage to random enemy equal to power."
+  },
+  "Hololive_CallSpadeEcho": {
+    "NAME": "Summon:SpadeEcho",
+    "DESCRIPTION": " StartLive :Draw 1 card. NL  Pursuit :Gain 2 Gold.",
+    "UPGRADE_DESCRIPTION": " StartLive :Draw 1 card.Gain [E] . NL  Pursuit :Gain 2 Gold."
+  },
+  "Hololive_CallRosalyn": {
+    "NAME": "Summon:Rosalyn",
+    "DESCRIPTION": "Play a copy of the top card of your draw pile instead of Attack. "
+  },
+  "Hololive_CallArtia": {
+    "NAME": "Summon:Artia",
+    "DESCRIPTION": " EndLive : Add a *Magic:Blizzard to your hand.",
+    "UPGRADE_DESCRIPTION": " EndLive : Add a *Magic:Blizzard+ to your hand."
+  },
+  "Hololive_CallDoris": {
+    "NAME": "Summon:Doris",
+    "DESCRIPTION": "At the start of your turn,gain [E] .",
+    "UPGRADE_DESCRIPTION": "At the start of your turn,gain [E] . NL  StartLive : Gain [E] ."
+  },
+  "Hololive_CallAyundaRisu": {
+    "NAME": "Summon:Ayunda Risu",
+    "DESCRIPTION": "Deal 1 damage at random,times equal to attack."
+  },
+  "Hololive_CallMoonaHoshinova": {
+    "NAME": "Summon:Moona Hoshinova",
+    "DESCRIPTION": " StartLive : Choose one card from your card library,then play its copy.",
+    "UPGRADE_DESCRIPTION": " StartLive : Choose one card from 4 cards from your card library,then play its copy."
+  },
+  "Hololive_CallAiraniIofifteen": {
+    "NAME": "Summon:Airani Iofifteen",
+    "DESCRIPTION": "End the damage."
+  },
+  "Hololive_ManjiCombinationOption": {
+    "NAME": "Group Manji",
+    "DESCRIPTION": " *aqua + *shion + *ayame :Whenever you play a attack card,give +1/+1 to random vtuber."
+  },
+  "Hololive_NatsuiroFubukiCombinationOption": {
+    "NAME": "NatsuiroFubuki",
+    "DESCRIPTION": " *matsuri + *fubuki :Gain 4 *Yeah ."
+  },
+  "Hololive_PekoMikoCombinationOption": {
+    "NAME": "PekoMiko",
+    "DESCRIPTION": " *peko + *miko :Every time you gain Gold,apply 1 Poison to random enemy."
+  },
+  "Hololive_GamersCombinationOption": {
+    "NAME": "Gamers",
+    "DESCRIPTION": " *fubuki + *mio + *okayu + *korone :Copy your draw pile and shuffle into your discard pile."
+  },
+  "Hololive_HappyFamilyCombinationOption": {
+    "NAME": "Happy Family",
+    "DESCRIPTION": " *civia + *yogiri + *echo :Whenever you play a summon card,the leftmost vtuber attacks once."
+  },
+  "Hololive_BlondHairCombinationOption": {
+    "NAME": "Blond Hair",
+    "DESCRIPTION": " *haato + *aki + *flare + *watame + *mel + *choco :Gain 3 DurableLive."
+  },
+  "Hololive_MeaQuaCombinationOption": {
+    "NAME": " ",
+    "DESCRIPTION": " "
+  },
+  "Hololive_FamsCombinationOption": {
+    "NAME": "FAMS",
+    "DESCRIPTION": " *fubuki + *ayame + *mio + *subaru :All your cards cost 1 less this turn."
+  },
+  "Hololive_CatDogCombinationOption": {
+    "NAME": "Cat And Dog",
+    "DESCRIPTION": " *fubuki + *mio :Summon *Pinotaurs ."
+  },
+  "Hololive_NewCatDogCombinationOption": {
+    "NAME": "New Cat And Dog",
+    "DESCRIPTION": " *Korone + *okayu :All enemies gain 4 Flare."
+  },
+  "Hololive_AquaMarineCombinationOption": {
+    "NAME": "AquaMarine",
+    "DESCRIPTION": " *aqua + *marine :Gain 15 *Gold ."
+  },
+  "Hololive_SoraACombinationOption": {
+    "NAME": "SoraA",
+    "DESCRIPTION": " *Sora + *A :Whenever you play a colorless card,gain [E] ."
+  },
+  "Hololive_NoelFlareCombinationOption": {
+    "NAME": "NoelFlare",
+    "DESCRIPTION": " *Noel + *Flare :At the end of your turn,give the vtuber with the lowest HP +3 HP."
+  },
+  "Hololive_MatsuriShionCombinationOption": {
+    "NAME": "MatsuriShion",
+    "DESCRIPTION": " *Matsuri + *Shion :Whenever you draw a summon card,change it to 7/7 and cost 1."
+  },
+  "Hololive_ZeroCombinationOption": {
+    "NAME": "Zero",
+    "DESCRIPTION": " *Zero : *RightClick the initial relic:Gain a summon card."
+  },
+  "Hololive_OneCombinationOption": {
+    "NAME": "First",
+    "DESCRIPTION": " *First :Enemies drop an additional card reward with 1 additional card to choose from."
+  },
+  "Hololive_ThreeCombinationOption": {
+    "NAME": "Third",
+    "DESCRIPTION": " *Third :Play 3 cards at the top of draw pile."
+  },
+  "Hololive_FourCombinationOption": {
+    "NAME": "Fourth",
+    "DESCRIPTION": " *Fourth :Next time you gain *BUFF ,gain 4 extra."
+  },
+  "Hololive_IdolCombinationOption": {
+    "NAME": "MUSIC",
+    "DESCRIPTION": " *Suisei + *AZKi :Triple the effect of your first drawn card this combat."
+  },
+  "Hololive_AllCombinationOption": {
+    "NAME": "ALL MEMBER",
+    "DESCRIPTION": " *ALL MEMBER :Unlock new mode,but haven`t done"
+  },
+  "Hololive_TwoCombinationOption": {
+    "NAME": "Second",
+    "DESCRIPTION": " *Second :Gain 2 *Buffer .Gain [E]  [E] ."
+  },
+  "Hololive_WatameHaatoCombinationOption": {
+    "NAME": "Watame&Haato",
+    "DESCRIPTION": " *Watame + *Haato :You can play summon cards without empty slots,and trigger StartLive ."
+  },
+  "Hololive_MatsuriLunaCombinationOption": {
+    "NAME": "Matsuri&Luna",
+    "DESCRIPTION": " *Two *Princess :Give +1/+1 to summon cards in your draw pile."
+  },
+  "Hololive_CocoKanataCombinationOption": {
+    "NAME": "Coco&Kanata",
+    "DESCRIPTION": " *Coco + *Kanata :Draw 5 cards."
+  },
+  "Hololive_CNTwoCombinationOption": {
+    "NAME": "CN-Second",
+    "DESCRIPTION": " *Artia + *Doris + *Rosalyn :When vtubers die,they attack once."
+  },
+  "Hololive_IDCombinationOption": {
+    "NAME": "Hololive-ID",
+    "DESCRIPTION": " *Risu + *Moona + *Iofi :Increase 3 max HP."
+  },
+  "Hololive_ChallengeYagooBigFamily": {
+    "NAME": "Challenge1.Yagoo Big Family",
+    "DESCRIPTION": "yagoo-o,yagoo-o,yagoo-o,yagoo-o..."
+  },
+  "Hololive_ChallengeOneManArmy": {
+    "NAME": "Challenge2.One Syo-Jyo Army",
+    "DESCRIPTION": "You're just a puppy"
+  },
+  "Hololive_ChallengeTopUpMoney": {
+    "NAME": "Challenge3.Top Up Money",
+    "DESCRIPTION": "and galgames:)"
+  },
+  "Hololive_ChallengeYo": {
+    "NAME": "Challenge4.Not Today",
+    "DESCRIPTION": "cant broadcast today yo"
+  },
+  "Hololive_ChallengeChaos": {
+    "NAME": "Challenge5.Chaos",
+    "DESCRIPTION": "wanna play!"
+  },
+  "Hololive_ChallengeKindergarten": {
+    "NAME": "Challenge6.Kindergarten",
+    "DESCRIPTION": "My single mother mio!"
+  },
+  "Hololive_ChallengeTheOnlyOne": {
+    "NAME": "Challenge7.Graduation(?)",
+    "DESCRIPTION": "(Hololive's unique fake cry)"
+  },
+  "Hololive_RevenueRecovery": {
+    "NAME": "Revenue Recovery",
+    "DESCRIPTION": "Unplayable. NL Lose !M! Gold when drawn.",
+    "EXTENDED_DESCRIPTION": [
+      "Unplayable."
+    ]
+  },
+  "Hololive_test": {
+    "NAME": "test",
+    "DESCRIPTION": "test"
+  }
+}

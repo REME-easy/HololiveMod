@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="target/HololiveMod.jar" tofile="D:/REMEの文件夹/游戏/SteamLibrary/steamapps/common/SlayTheSpire/mods/HololiveMod.jar"/>
+</target>
+</project>

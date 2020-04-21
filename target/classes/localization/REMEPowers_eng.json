@@ -1,0 +1,52 @@
+{
+  "Hololive_HuntedPower": {
+    "NAME": "Hunted",
+    "DESCRIPTIONS": [
+      "At the end of turn,receive ",
+      " damage for each debuff you have."
+    ]
+  },
+  "Hololive_FlarePower": {
+    "NAME": "Flare",
+    "DESCRIPTIONS": [
+      "Whenever a vtuber died,receive ",
+      " damage."
+    ]
+  },
+  "Hololive_SingPower": {
+    "NAME": "Singing",
+    "DESCRIPTIONS": [
+      "Whenever you summon,give it +",
+      " attack and health."
+    ]
+  },
+  "Hololive_DurableLivePower": {
+    "NAME": "Durable Live",
+    "DESCRIPTIONS": [
+      "At the end of your turn,give all vtubers +",
+      " health."
+    ]
+  },
+  "Hololive_FourPower": {
+    "NAME": "Fourth",
+    "DESCRIPTIONS": [
+      "Next time you gain BUFF,gain ",
+      " extra."
+    ]
+  },
+  "Hololive_Hurted": {
+    "DESCRIPTIONS": [
+      " #yHurt :Deal "," damage to random enemy."
+    ]
+  },
+  "Hololive_Lamb": {
+    "DESCRIPTIONS": [
+      " #yEnd :Summon a ","/"," Sheep."
+    ]
+  },
+  "Hololive_Spy": {
+    "DESCRIPTIONS": [
+      " #yPursuit :+","/+","。"
+    ]
+  }
+}

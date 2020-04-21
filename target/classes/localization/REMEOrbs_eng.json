@@ -1,0 +1,298 @@
+{
+  "Hololive_FriendA":{
+    "NAME": "Friend A",
+    "DESCRIPTION":[
+      " #yPursuit :Add a random colorless card to your draw pile.",
+      " #yStartLive :Draw 2 cards. NL  #yPursuit :Add a random colorless card to your draw pile."]
+  },
+  "Hololive_MinatoAqua": {
+    "NAME": "MinatoAqua",
+    "DESCRIPTION":[
+      "Attack once for every two attack cards you use.",
+      "Attack once for every two attack cards you use. NL  #yEndLive :Gain 2 Strength."]
+  },
+  "Hololive_TokinoSora": {
+    "NAME": "TokinoSora",
+    "DESCRIPTION":[
+      "At the  #yStart  of your turn,the rightmost vtuber attack once.",
+      "At the  #yStart  of your turn,the rightmost vtuber attack twice."]
+  },
+  "Hololive_YuzukiChoco": {
+    "NAME": "YuzukiChoco",
+    "DESCRIPTION":[
+      " #yEndLive :Give a random vtuber +2/+2.",
+      " #yStartLive , #yEndLive :Give a random vtuber +2/+2."]
+  },
+  "Hololive_InugamiKorone": {
+    "NAME": "InugamiKorone",
+    "DESCRIPTION":[
+      " #yPursuit :Apply 1 Weak and Vulnerable.",
+      " #yPursuit :Apply 1 Weak and Vulnerable. NL  #yEndLive :All enemies lose 1 Strength."]
+  },
+  "Hololive_HoushouMarine": {
+    "NAME": "HoushouMarine",
+    "DESCRIPTION": [
+      " #yPursuit :Summon a #yMariner .",
+      " #yPursuit :Summon a #yMariner+ ."
+    ]
+  },
+  "Hololive_Mariner": {
+    "NAME": "Mariner",
+    "DESCRIPTION": [
+      "Whenever you play a card,deal 3(2) damage to random enemy.",
+      "Whenever you play a card,deal 5(3) damage to random enemy."
+    ]
+  },
+  "Hololive_Lamb": {
+    "NAME": "Sheep",
+    "DESCRIPTION": [
+      " #yEndLive :Gain #yPlated #yArmor equals to attack.",
+      " #yEndLive :Gain #yPlated #yArmor equals to attack."
+    ]
+  },
+  "Hololive_Flare": {
+    "NAME": "Flare",
+    "DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "Hololive_UsadaPekora": {
+    "NAME": "UsadaPekora",
+    "DESCRIPTION": [
+      "Whenever you play a card,apply 1 Poison to random enemy.",
+      "Whenever you play a card,apply 1 Poison to all enemies."
+    ]
+  },
+  "Hololive_NatsuiroMatsuri": {
+    "NAME": "NatsuiroMatsuri",
+    "DESCRIPTION": [
+      " #yHurt :Gain 1 #yYeah+ .",
+      " #yHurt :Gain 2 #yYeah+ ."
+    ]
+  },
+  "Hololive_KiryuuCoco": {
+    "NAME": "KiryuuCoco",
+    "DESCRIPTION": [
+      "Cost 1 less for each vtuber you summoned this battle.",
+      "Cost 1 less for each vtuber you summoned this battle."
+    ]
+  },
+  "Hololive_UruhaRushia": {
+    "NAME": "UruhaRushia",
+    "DESCRIPTION": [
+      " #yPursuit :Summon a 4/4 copy of a vtuber that died this battle.",
+      " #yPursuit :Summon a 6/6 copy of a vtuber that died this battle."
+    ]
+  },
+  "Hololive_MurasakiShion": {
+    "NAME": "MurasakiShion",
+    "DESCRIPTION": [
+      " #yEndLive :Gain a copy of this.",
+      " #yEndLive :Gain a copy of this."
+    ]
+  },
+  "Hololive_AkaiHaato": {
+    "NAME": "AkaiHaato",
+    "DESCRIPTION": [
+      " #yStartLive :Give all vtubers + 3 health.",
+      " #yStartLive :Give all vtubers + 4 health."
+    ]
+  },
+  "Hololive_ShirakamiFubuki": {
+    "NAME": "ShirakamiFubuki",
+    "DESCRIPTION": [
+      "Whenever you summon a vtuber,it attack once.",
+      "Whenever you summon a vtuber,it attack once. NL  #yEndLive :Rightmost vtuber attacks once."
+    ]
+  },
+  "Hololive_ShiroganeNoel": {
+    "NAME": "ShiroganeNoel",
+    "DESCRIPTION": [
+      " #yHurt :Attack once.",
+      " #yTaunt  NL  #yHurt :Attack once."
+    ]
+  },
+  "Hololive_Roboco": {
+    "NAME": "Roboco",
+    "DESCRIPTION":[
+      "When attack,work out and choose from #yAttack #yOnce or #yGain #yBlock.",
+      "When attack,work out and choose from #yAttack #yOnce #yAnd #yGive #yProgram #yCard or #yGain #yBlock."
+    ]
+  },
+  "Hololive_SakuraMiko": {
+    "NAME": "SakuraMiko",
+    "DESCRIPTION":[
+      "Whenever vtuber attacks,gain 1 Gold.",
+      "Whenever vtuber attacks,gain 1 Gold. NL  #yEndLive :Deal damage to random enemy equals to 1/25 of Gold."
+    ]
+  },
+  "Hololive_HoshimachiSuisei": {
+    "NAME": "HoshimachiSuisei",
+    "DESCRIPTION":[
+      "Attack all enemies. NL If only one enemy deals twice the damage.",
+      "Attack all enemies. NL If only one enemy deals 3 times the damage."
+    ]
+  },
+  "Hololive_YozoraMel": {
+    "NAME": "YozoraMel",
+    "DESCRIPTION":[
+      " #yPursuit :Gain health equals to attack. NL (No more than 10)",
+      " #yPursuit :Gain health equals to attack and heal you. NL (No more than 10)"
+    ]
+  },
+  "Hololive_AkiRosenthal": {
+    "NAME": "Aki Rosenthal",
+    "DESCRIPTION":[
+      "Your choice card triggers once more.",
+      "Your choice card triggers the effect of each option."
+    ]
+  },
+  "Hololive_NakiriAyame": {
+    "NAME": "NakiriAyame",
+    "DESCRIPTION":[
+      " #yPursuit :Add a #yRasetsu to your hand.",
+      " #yPursuit :Add a #yRasetsu and #yAshura to your hand."
+    ]
+  },
+  "Hololive_OzoraSubaru": {
+    "NAME": "OzoraSubaru",
+    "DESCRIPTION":[
+      "At the  #yEnd  of your turn,give all vtubers +1 attack.",
+      "At the  #yEnd  and  #yStart  of your turn,give all vtubers +1 attack."
+    ]
+  },
+  "Hololive_ShiranuiFlare": {
+    "NAME": "ShiranuiFlare",
+    "DESCRIPTION":[
+      "Whenever you play a skill card,apply 1 Flare to random enemy.",
+      "Whenever you play a skill card,apply 1 Flare to all enemies."
+    ]
+  },
+  "Hololive_AmaneKanata": {
+    "NAME": "AmaneKanata",
+    "DESCRIPTION":[
+      " #yStartLive :Gain 1 Singing.",
+      " #yStartLive :Gain 1 Singing."
+    ]
+  },
+  "Hololive_TsunomakiWatame": {
+    "NAME": "TsunomakiWatame",
+    "DESCRIPTION":[
+      " #yStartLive :Gain 3 #yPlated #yArmor.",
+      " #yStartLive , #yEndLive :Gain 3 #yPlated #yArmor."
+    ]
+  },
+  "Hololive_TokoyamiTowa": {
+    "NAME": "TokoyamiTowa",
+    "DESCRIPTION":[
+      "Choose randomly:Attack once or gain Block.",
+      "Choose randomly:Attack once or gain Block."
+    ]
+  },
+  "Hololive_HimemoriLuna": {
+    "NAME": "HimemoriLuna",
+    "DESCRIPTION":[
+      " #yStartLive :Add a not-upgraded copy of the last summon card you played.",
+      " #yStartLive :Add a upgraded copy of the last summon card you played."
+    ]
+  },
+  "Hololive_OkamiMio": {
+    "NAME": "OkamiMio",
+    "DESCRIPTION":[
+      "Whenever a vtuber died,gain +1/+2.",
+      "Whenever a vtuber died,gain +2/+3."
+    ]
+  },
+  "Hololive_PigeonMan": {
+    "NAME": "Pinotaurs",
+    "DESCRIPTION":[
+      "Always summoned on the far right. NL  #yEndLive :Gain a copy of this.",
+      "Always summoned on the far right. NL  #yEndLive :Gain a copy of this."
+    ]
+  },
+  "Hololive_NekomataOkayu": {
+    "NAME": "NekomataOkayu",
+    "DESCRIPTION":[
+      " #yPursuit :trigger  #yHurt  of all vtubers.",
+      " #yPursuit :trigger  #yHurt  of all vtubers. NL  #yHurt :Deal 3 damage to random enemy."
+    ]
+  },
+  "Hololive_AZKi": {
+    "NAME": "AZKi",
+    "DESCRIPTION":[
+      " #yStartLive :Add copies of all vtubers you control to your hand.",
+      " #yStartLive :Add copies of all vtubers you control to your hand."
+    ]
+  },
+  "Hololive_Yogiri": {
+    "NAME": "Yogiri",
+    "DESCRIPTION":[
+      "Whenever you play a summon card,add a #yKnife to your hand.",
+      "Whenever you play a summon card,add a #yKnife+ to your hand."
+    ]
+  },
+  "Hololive_Civia": {
+    "NAME": "Civia",
+    "DESCRIPTION":[
+      "Attack changed to power. NL  #yEndLive :Deal damage to random enemy equals to power.",
+      "Attack and  #yHurt  changed to power. NL  #yEndLive :Deal damage to random enemy equals to power."
+    ]
+  },
+  "Hololive_SpadeEcho": {
+    "NAME": "SpadeEcho",
+    "DESCRIPTION":[
+      " #yStartLive :Draw 1 card. NL  #yPursuit :Gain 2 Gold.",
+      " #yStartLive :Draw 1 card.Gain [E] . NL  #yPursuit :Gain 2 Gold."
+    ]
+  },
+  "Hololive_Ufubuki": {
+    "NAME": "Ufubuki",
+    "DESCRIPTION":[
+      "Attack twice.",
+      "Attack 3 times."
+    ]
+  },
+  "Hololive_Rosalyn": {
+    "NAME": "Rosalyn",
+    "DESCRIPTION":[
+      "Play a copy of the top card of your draw pile instead of Attack.",
+      "Play a copy of the top card of your draw pile instead of Attack."
+    ]
+  },
+  "Hololive_Artia": {
+    "NAME": "Artia",
+    "DESCRIPTION":[
+      " #yEndLive : Add a #bMagic:Blizzard to your hand.",
+      " #yEndLive : Add a #bMagic:Blizzard+ to your hand."
+    ]
+  },
+  "Hololive_Doris": {
+    "NAME": "Doris",
+    "DESCRIPTION":[
+      "At the start of your turn,gain [E] .",
+      "At the start of your turn,gain [E] . NL  #yStartLive : Gain [E] ."
+    ]
+  },
+  "Hololive_AyundaRisu": {
+    "NAME": "Ayunda Risu",
+    "DESCRIPTION":[
+      "Deal 1 damage at random,times equal to attack.",
+      "Deal 1 damage at random,times equal to attack."
+    ]
+  },
+  "Hololive_MoonaHoshinova": {
+    "NAME": "Moona Hoshinova",
+    "DESCRIPTION":[
+      " #yStartLive : Choose one card from your card library,then play its copy.",
+      " #yStartLive : Choose one card from 4 cards from your card library,then play its copy."
+    ]
+  },
+  "Hololive_AiraniIofifteen": {
+    "NAME": "Airani Iofifteen",
+    "DESCRIPTION":[
+      "End the damage.",
+      "End the damage."
+    ]
+  }
+}

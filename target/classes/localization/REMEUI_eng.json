@@ -1,0 +1,24 @@
+{
+  "CardType": {
+    "TEXT": [
+      "Summon"
+    ]
+  },
+  "DeckName": {
+    "TEXT": [
+      "Random","Nice Weather","Criminal Gang","Hololive Fantasy","Challenge 1.Yagoo Big Family","Challenge 2.One Syo-Jyo Army",
+      "Challenge 3.Top Up Money","Challenge 4.Not Today","Challenge 5.Chaos","Challenge 6.Kindergarten","Challenge 7.Graduation(?)"
+    ]
+  },
+  "CARD_SELECT": {
+    "TEXT": [
+      "Choose "," ability",
+      "card"
+    ]
+  },
+  "BALANCE_MODE": {
+    "TEXT": [
+      "Balance Mode","REME`s mod.If you have a nice time,I will be happy.:)"
+    ]
+  }
+}

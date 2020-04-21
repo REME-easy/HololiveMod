@@ -1,0 +1,129 @@
+{
+  "Hololive_TheStar": {
+    "NAME": "Hololive",
+    "FLAVOR": "Shiny Smily Story！",
+    "DESCRIPTIONS": [
+      "At the start of each combat,if you have any combination, choose an ability. NL for every 4 combinations you have, the number of ability choices increases once.",
+      " NL 1. #yManji :Whenever you play a attack card,give +1/+1 to random vtuber.",
+      " NL 2. #yNatsuiroFubuki :Gain 4 #yYeah+ .",
+      " NL 3. #yPekoMiko :Every time you gain Gold ,apply 1 Poison to random enemy.",
+      " NL 4. #yGamers :Copy your draw pile and shuffle into your discard pile.",
+      " NL 5. #yHappyFamily :Whenever you play a summon card,the leftmost vtuber attacks once.",
+      " NL 6. #yBlondHair :Gain 3 DurableLive.",
+      " NL 7. #meaqua :no effect currently",
+      " NL 8. #yfams :All your cards cost 1 less this turn.",
+      " NL 9. #yCatAndDog :Summon #yPinotaurs .",
+      " NL 10. #yNewCatAndDog :All enemies gain 4 #rFlare .",
+      " NL 11. #bAquaMarine :Gain 15 #yGold .",
+      " NL 12. #bSoraA :Whenever you play a colorless card,gain [E] .",
+      " NL 13. #bMatsuriShion :Whenever you draw a summon card,change it to 7/7 and cost 1.",
+      " NL 14.Noel #rFlare :At the end of your turn,give the vtuber with the lowest HP +3 HP.",
+      " NL 15. #bZero : #yRightClick the initial relic:Gain a summon card.",
+      " NL 16. #bFirst :Enemies drop an additional card reward with 1 additional card to choose from.",
+      " NL 17. #bSecond :Gain 2 Buffer .Gain [E]  [E] .",
+      " NL 18. #bThird :Play 3 cards at the top of draw pile.",
+      " NL 19. #bFourth :Next time you gain #yBUFF ,gain 4 extra.",
+      " NL 20. #bMUSIC :Triple the effect of your first drawn card this combat.",
+      " NL 21. #yALL #yMEMBER :no effect currently",
+      " NL 22. #rWatame&Haato :You can play summon cards without empty slots,and trigger #yStartLive .",
+      " NL 23. #yMatsuri&Luna :Give +1/+1 to summon cards in your draw pile.",
+      " NL 24. #yCoco&Kanata :Draw 5 cards.",
+      " NL 25. #yCN #ySecond :When vtubers die,they attack once.",
+      " NL 26. #yHololiveID :Increase 3 max HP."
+    ]
+  },
+  "Hololive_OneManArmy": {
+    "NAME": "One Syo-Jyo Army",
+    "FLAVOR": "sorry.. yesterday...I overdo it..",
+    "DESCRIPTIONS":[
+      "At the start of each combat,summon #pAqua ,reduce max slots to 1.If you control no vtubers,summon #pAqua every 3 turns."
+    ]
+  },
+  "Hololive_YagooBigFamily": {
+    "NAME": "Yagoo Big Family",
+    "FLAVOR": "As you sow, so shall you reap..what`s this?",
+    "DESCRIPTIONS": [
+      "Start game with 4 special #yYagoo #yBig #yFamily ."
+    ]
+  },
+  "Hololive_TopUpMoney": {
+    "NAME": "Top Up Your Money",
+    "FLAVOR": "Go!",
+    "DESCRIPTIONS": [
+      "You #rcant #rget #rcard #rrewards any more. NL  #yRight #yClick this:Add a random card to your hand.It will cost 10 #yGold .",
+      "I have no enough #yGold !"
+    ]
+  },
+  "Hololive_TopUpMoneyS": {
+    "NAME": "Top Up Your Money",
+    "FLAVOR": "Go!",
+    "DESCRIPTIONS": [
+      "You #rcant #rget #rcard #rrewards any more. NL  #yRight #yClick this:Add a random card to your hand.It will cost 20 #yGold .",
+      "I have no enough #yGold !"
+    ]
+  },
+  "Hololive_Yo": {
+    "NAME": "Not Today",
+    "FLAVOR": "poyoyo",
+    "DESCRIPTIONS": [
+      "Your vtubers #rCant deal damage when attack."
+    ]
+  },
+  "Hololive_Chaos": {
+    "NAME": "Chaos",
+    "FLAVOR": "wanna play!",
+    "DESCRIPTIONS": [
+      "When you draw,randomly change its *Damage , *Block , *MagicNumber , *Stats ."
+    ]
+  },
+  "Hololive_ChaosS": {
+    "NAME": "Chaos",
+    "FLAVOR": "wanna play!",
+    "DESCRIPTIONS": [
+      "When you draw,randomly change its *Damage , *Block , *MagicNumber , *Stats ."
+    ]
+  },
+  "Hololive_Kindergarten": {
+    "NAME": "Kindergarten",
+    "FLAVOR": "mio mama!",
+    "DESCRIPTIONS": [
+      "When you draw a summon card,if she`s not #yOkami #yMio,change it to 1/1 and cost 1."
+    ]
+  },
+  "Hololive_TheOnlyOne": {
+    "NAME": "Graduation",
+    "FLAVOR": "(Hololive's unique fake cry)",
+    "DESCRIPTIONS": [
+      "When vtubers die,remove it from your master deck."
+    ]
+  },
+  "Hololive_LightStick": {
+    "NAME": "Light Stick",
+    "FLAVOR": "Just Like Idols!",
+    "DESCRIPTIONS": [
+      "At the start of each combat,gain 1 orb slots if you don`t have,then randomly summon a #bvtuber with her StartLive triggered."
+    ]
+  },
+  "Hololive_Finger": {
+    "NAME": "Finger",
+    "FLAVOR": "Finger~Finger~",
+    "DESCRIPTIONS": [
+      " at the start of your turn.Every #b5 turns,add a random @rcurse card to your draw pile.",
+      "Gain [E]"
+    ]
+  },
+  "Hololive_FriedShrimpLion": {
+    "NAME": "Fried Shrimp Lion",
+    "FLAVOR": "My Good Friend",
+    "DESCRIPTIONS": [
+      "At the start of each combat,gain 1 #rMatsuri if you don`t have.Draw 1 card each time #rMatsuri Hurt."
+    ]
+  },
+  "Hololive_RiceBall": {
+    "NAME": "RiceBall",
+    "FLAVOR": "Delicious",
+    "DESCRIPTIONS": [
+      "Gain #b1 max HP for each relic you have."
+    ]
+  }
+}

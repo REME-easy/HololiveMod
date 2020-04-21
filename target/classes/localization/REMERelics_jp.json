@@ -1,0 +1,129 @@
+﻿{
+  "Hololive_TheStar": {
+    "NAME": "ホロライブ",
+    "FLAVOR": "Shiny Smily Story！",
+    "DESCRIPTIONS": [
+      "戦闘開始時に組み合わせが揃っている場合発動する能力を選択する。 NL 組み合わせ4つ毎に選択できる能力が増加する。",
+      " NL 1. #y卍組 :アタックカードをプレイする度にランダムなVtuverに +1/+1 を与える。",
+      " NL 2. #y夏色吹雪 : #yYeah+ 4枚を得る。",
+      " NL 3. #yぺこみこ :ゴールドを得る度に、ランダムな敵に 毒 1を与える。",
+      " NL 4. #yゲーマーズ :山札をコピーしシャッフルして捨て札に加える。",
+      " NL 5. #yラッキートリオ :召喚カードをプレイする度に左端のVtuverが攻撃する。",
+      " NL 6. #y金髪組 :耐久配信 3枚を得る。",
+      " NL 7. #meaqua :現在効果無し",
+      " NL 8. #yFAMS :このターン全てのカードのコストが1減少する。",
+      " NL 9. #yフブミオ : #yハトタウロス を召喚する。",
+      " NL 10. #yおかころ :全ての敵は #r炎上 4 を得る。",
+      " NL 11. #bあくあマリン :15 #yゴールド を得る。",
+      " NL 12. #bそらえー :無色カードをプレイする度に [E] を得る。",
+      " NL 13. #y紫咲まつり :Whenever you draw a summon card,change it to 7/7 and cost 1.",
+      " NL 14. ノエ #rフレ :ターン終了時に最も体力の低いVtuverに体力 +3 を与える。",
+      " NL 15. #bZero :スターターレリックを #y右クリック する事で召喚カードを得る。",
+      " NL 16. #bOne :戦闘後に得られるカード報酬が1つ増加しカード選択画面で選択できるカードが1枚増加する。",
+      " NL 17. #bTwo : バッファー 2を得る。 [E]  [E] を得る。",
+      " NL 18. #bThree :山札の上から3枚のカードをプレイする。",
+      " NL 19. #bFour :次に得る *バフ は追加で4得る。",
+      " NL 20. #bイノナカミュージック :この戦闘で最初に引いたカードをプレイした時、効果を3回発動させる。",
+      " NL 21. #yALL #yMEMBER :no effect currently",
+      " NL 22. #rラムポーク :枠に空きが無い状態でも召喚カードをプレイする事が可能で #y開始 を発動させる。",
+      " NL 23. #yフェスティバルーナ :山札の召喚カードに +1/+1 を与える。",
+      " NL 24. #y収益化NG組 :カードを5枚引く。",
+      " NL 25. #yホロ中国2期 :Vtuver死亡時に攻撃する。",
+      " NL 26. #yホロライブID :最大HPを3増加させる。"
+    ]
+  },
+  "Hololive_OneManArmy": {
+    "NAME": "ワン少女アーミー",
+    "FLAVOR": "ごめん.. きのう... やりすぎちゃって..",
+    "DESCRIPTIONS":[
+      "戦闘開始時に #yあくあ を召喚し、最大スロットを1にする。Vtuverがいない場合3ターン後に #yあくあ を召喚する。"
+    ]
+  },
+  "Hololive_YagooBigFamily": {
+    "NAME": "Yagoo大家族",
+    "FLAVOR": "まいたからには刈らねばならない…なにこれ?",
+    "DESCRIPTIONS": [
+      "ゲーム開始時に 4枚の スペシャル #yYagood大家族 を得る。"
+    ]
+  },
+  "Hololive_TopUpMoney": {
+    "NAME": "お前の金を投げろ",
+    "FLAVOR": "Go!",
+    "DESCRIPTIONS": [
+      "#rカード報酬を得られない。 NL これを #y右クリック :10 #ゴールド を支払いランダムなカードを手札に加える。",
+      "#yGold が足りない!"
+    ]
+  },
+  "Hololive_TopUpMoneyS": {
+    "NAME": "お前の金を投げろ",
+    "FLAVOR": "Go!",
+    "DESCRIPTIONS": [
+      "#rカード報酬を得られない。 NL これを #y右クリック :10 #ゴールド を支払いランダムなカードを手札に加える。",
+      "#yGold が足りない!"
+    ]
+  },
+  "Hololive_Yo": {
+    "NAME": "今日はむり",
+    "FLAVOR": "ぽよよ",
+    "DESCRIPTIONS": [
+      "Vtuverの攻撃で #rダメージを与えられない 。"
+    ]
+  },
+  "Hololive_Chaos": {
+    "NAME": "カオス",
+    "FLAVOR": "遊びた～い!",
+    "DESCRIPTIONS": [
+      "カードを引いた時その *数値をランダムに変更 する。"
+    ]
+  },
+  "Hololive_ChaosS": {
+    "NAME": "カオス",
+    "FLAVOR": "遊びた～い!",
+    "DESCRIPTIONS": [
+      "カードを引いた時その *数値をランダムに変更 する。"
+    ]
+  },
+  "Hololive_Kindergarten": {
+    "NAME": "ようちえん",
+    "FLAVOR": "ミオママ!",
+    "DESCRIPTIONS": [
+      "*大神ミオ 以外の召喚カードを引いた時コスト1 1/1 に変更する。"
+    ]
+  },
+  "Hololive_TheOnlyOne": {
+    "NAME": "卒業式",
+    "FLAVOR": "(ホロライブのウソ泣き)",
+    "DESCRIPTIONS": [
+      "Vtuver死亡時にデッキから取り除かれる。(戦闘後にも戻らない。)"
+    ]
+  },
+  "Hololive_LightStick": {
+    "NAME": "サイリウム",
+    "FLAVOR": "アイドルよ！",
+    "DESCRIPTIONS": [
+      "戦闘開始時にオーブスロットを持たない場合、オーブスロットを1つ得てランダムな #bVtuber を召喚し 開始 を発動させる。"
+    ]
+  },
+  "Hololive_Finger": {
+    "NAME": "指",
+    "FLAVOR": "ゆび～ゆび～",
+    "DESCRIPTIONS": [
+      " #b5 ターンごとにランダムな #r呪い のカード山札に加える。",
+      "ターン開始時、 [E] を得る。 "
+    ]
+  },
+  "Hololive_FriedShrimpLion": {
+    "NAME": "えびふらいおん",
+    "FLAVOR": "夏色まつりの親友（？）",
+    "DESCRIPTIONS": [
+      "戦闘開始時、 #y夏色まつり がなければ1枚得る #y夏色まつり ダメージを受ける度にカードを1枚引く。"
+    ]
+  },
+  "Hololive_RiceBall": {
+    "NAME": "おにぎり",
+    "FLAVOR": "おいしい",
+    "DESCRIPTIONS": [
+      "レリックを得る度に最大体力が #b1 増加する。"
+    ]
+  }
+}

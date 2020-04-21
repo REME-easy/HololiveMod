@@ -1,0 +1,298 @@
+{
+  "Hololive_FriendA":{
+    "NAME": "友人A",
+    "DESCRIPTION":[
+      "#y追击 ：将一张无色牌置入你的抽牌堆。",
+      "#y开幕 ：抽两张牌。 NL  #y追击 ：将一张无色牌置入你的抽牌堆。"]
+  },
+  "Hololive_MinatoAqua": {
+    "NAME": "凑阿库娅",
+    "DESCRIPTION":[
+      "你每使用2张攻击牌，对随机敌人攻击一次。",
+      "你每使用2张攻击牌，对随机敌人攻击一次。 NL  #y结尾 ：获得2点力量。"]
+  },
+  "Hololive_TokinoSora": {
+    "NAME": "时乃空",
+    "DESCRIPTION":[
+      "你的回合开始时，命令最右边的队友攻击一次。",
+      "你的回合开始时，命令最右边的队友攻击两次。"]
+  },
+  "Hololive_YuzukiChoco": {
+    "NAME": "癒月巧可",
+    "DESCRIPTION":[
+      " #y结尾 ：使随机队友+2/+2。",
+      " #y开幕 ， #y结尾 ：使随机队友+2/+2。"]
+  },
+  "Hololive_InugamiKorone": {
+    "NAME": "戌神沁音",
+    "DESCRIPTION":[
+      " #y追击 ：使目标获得1层 虚弱 和 易伤 。",
+      " #y追击 ：使目标获得1层 虚弱 和 易伤 。 NL  #y结尾 ：使所有敌人失去1点 力量 。"]
+  },
+  "Hololive_HoushouMarine": {
+    "NAME": "宝钟马琳",
+    "DESCRIPTION": [
+      " #y追击 ：召唤 1 个 船员 。",
+      " #y追击 ：召唤 1 个 船员 +。"
+    ]
+  },
+  "Hololive_Mariner": {
+    "NAME": "船员",
+    "DESCRIPTION": [
+      "每当你打出一张牌，随机造成3(2)点伤害。",
+      "每当你打出一张牌，随机造成5(3)点伤害。"
+    ]
+  },
+  "Hololive_Lamb": {
+    "NAME": "羊",
+    "DESCRIPTION": [
+      " #y结尾 ：获得等同于攻击力的多层护甲。",
+      " #y结尾 ：获得等同于攻击力的多层护甲。"
+    ]
+  },
+  "Hololive_Flare": {
+    "NAME": "火",
+    "DESCRIPTION": [
+      "",
+      ""
+    ]
+  },
+  "Hololive_UsadaPekora": {
+    "NAME": "兔田佩克拉",
+    "DESCRIPTION": [
+      "每当你打出一张牌，使随机敌人获得一层 中毒 。",
+      "每当你打出一张牌，使所有敌人获得一层 中毒 。"
+    ]
+  },
+  "Hololive_NatsuiroMatsuri": {
+    "NAME": "夏色祭",
+    "DESCRIPTION": [
+      " #y受伤 ：获得1张 爽到+ 。",
+      " #y受伤 ：获得2张 爽到+ 。"
+    ]
+  },
+  "Hololive_KiryuuCoco": {
+    "NAME": "桐生可可",
+    "DESCRIPTION": [
+      "如果此卡在你的手牌，你每召唤一个队友此卡费用减少1点。",
+      "如果此卡在你的手牌，你每召唤一个队友此卡费用减少1点。"
+    ]
+  },
+  "Hololive_UruhaRushia": {
+    "NAME": "润羽露西娅",
+    "DESCRIPTION": [
+      " #y追击 ：复活一个阵亡队友的4/4复制。",
+      " #y追击 ：复活一个阵亡队友的6/6复制。"
+    ]
+  },
+  "Hololive_MurasakiShion": {
+    "NAME": "紫咲诗音",
+    "DESCRIPTION": [
+      " #y结尾 ：获得一张该队友的复制。",
+      " #y结尾 ：获得一张该队友的复制。"
+    ]
+  },
+  "Hololive_AkaiHaato": {
+    "NAME": "赤井心",
+    "DESCRIPTION": [
+      " #y开幕 ：使所有队友+3生命值。",
+      " #y开幕 ：使所有队友+4生命值。"
+    ]
+  },
+  "Hololive_ShirakamiFubuki": {
+    "NAME": "白上吹雪",
+    "DESCRIPTION": [
+      "你每召唤一个队友，使其立即攻击一次。",
+      "你每召唤一个队友，使其立即攻击一次。 NL  #y结尾 ：最右边的队友攻击一次。"
+    ]
+  },
+  "Hololive_ShiroganeNoel": {
+    "NAME": "白银诺艾尔",
+    "DESCRIPTION": [
+      " #y受伤 ：随机攻击敌人。",
+      " #y嘲讽  NL  #y受伤 ：随机攻击敌人。"
+    ]
+  },
+  "Hololive_Roboco": {
+    "NAME": "萝卜子",
+    "DESCRIPTION":[
+      " 攻击 代替为计算出需求并从 伤害 、 格挡 中做出选择。",
+      " 攻击 代替为计算出需求并从 给予程序牌和伤害 、 格挡 中做出选择。"
+    ]
+  },
+  "Hololive_SakuraMiko": {
+    "NAME": "樱巫女",
+    "DESCRIPTION":[
+      "队友 攻击 时，获得1枚 金币 。",
+      "队友 攻击 时，获得1枚 金币 。 NL  #y结尾 ：对随机敌人造成 金币 量1/25的伤害。"
+    ]
+  },
+  "Hololive_HoshimachiSuisei": {
+    "NAME": "星街彗星",
+    "DESCRIPTION":[
+      "同时攻击所有敌人。 NL 如果只有一个敌人造成2倍伤害。",
+      "同时攻击所有敌人。 NL 如果只有一个敌人造成3倍伤害。"
+    ]
+  },
+  "Hololive_YozoraMel": {
+    "NAME": "夜空梅露",
+    "DESCRIPTION":[
+      " #y追击 ：梅露回复等量生命。 NL （最高10点）",
+      " #y追击 ：你和梅露回复等量生命。 NL （最高10点）"
+    ]
+  },
+  "Hololive_AkiRosenthal": {
+    "NAME": "亚绮·罗森塔尔",
+    "DESCRIPTION":[
+      "你的 选择 牌多触发一次。",
+      "你的 选择 牌触发每一个选项的效果。"
+    ]
+  },
+  "Hololive_NakiriAyame": {
+    "NAME": "百鬼绫目",
+    "DESCRIPTION":[
+      "#y追击 ：将一张 罗刹 置入你的手牌。",
+      " #y追击 ：将一张 #y罗刹 和 #y阿修罗 置入你的手牌。"
+    ]
+  },
+  "Hololive_OzoraSubaru": {
+    "NAME": "大空昴",
+    "DESCRIPTION":[
+      "你的回合结束时，所有队友+1攻击力。",
+      "你的回合开始和结束时，所有队友+1攻击力。"
+    ]
+  },
+  "Hololive_ShiranuiFlare": {
+    "NAME": "不知火芙蕾雅",
+    "DESCRIPTION":[
+      "你每打出一张技能牌，使随机敌人获得1层 燃烧 。",
+      "你每打出一张技能牌，使所有敌人获得1层 燃烧 。"
+    ]
+  },
+  "Hololive_AmaneKanata": {
+    "NAME": "天音彼方",
+    "DESCRIPTION":[
+      " #y开幕 ：获得1层 索兰歌声 。",
+      " #y开幕 ：获得1层 索兰歌声 。"
+    ]
+  },
+  "Hololive_TsunomakiWatame": {
+    "NAME": "角卷绵芽",
+    "DESCRIPTION":[
+      " #y开幕 ：获得3层 多层护甲 。",
+      " #y开幕 ， #y结尾 ：获得3层 多层护甲 。"
+    ]
+  },
+  "Hololive_TokoyamiTowa": {
+    "NAME": "常暗永远",
+    "DESCRIPTION":[
+      "随机 选择 一项：攻击一次、获得等同于攻击力的格挡。",
+      "随机 选择 一项：攻击一次、获得等同于攻击力的格挡。"
+    ]
+  },
+  "Hololive_HimemoriLuna": {
+    "NAME": "姬森璐娜",
+    "DESCRIPTION":[
+      " #y开幕 ：获得你打出的上一张成员牌的未升级版。",
+      " #y开幕 ：获得你打出的上一张成员牌的升级版。"
+    ]
+  },
+  "Hololive_OkamiMio": {
+    "NAME": "大神澪",
+    "DESCRIPTION":[
+      "每当一个队友阵亡，获得+1/+2。",
+      "每当一个队友阵亡，获得+2/+3。"
+    ]
+  },
+  "Hololive_PigeonMan": {
+    "NAME": "鸽魔人",
+    "DESCRIPTION":[
+      "该队友总是召唤在最右侧。 NL  #y结尾 ：获得一张该队友的复制。",
+      "该队友总是召唤在最右侧。 NL  #y结尾 ：获得一张该队友的复制。"
+    ]
+  },
+  "Hololive_NekomataOkayu": {
+    "NAME": "猫又小粥",
+    "DESCRIPTION":[
+      " #y追击 ：触发所有队友的 #y受伤 效果。",
+      " #y追击 ：触发所有队友的 #y受伤 效果。 NL  #y受伤 ：随机造成3点伤害。"
+    ]
+  },
+  "Hololive_AZKi": {
+    "NAME": "AZKi",
+    "DESCRIPTION":[
+      " #y开幕 ：获得在场队友的复制。",
+      " #y开幕 ：获得在场队友的复制。"
+    ]
+  },
+  "Hololive_Yogiri": {
+    "NAME": "夜霧",
+    "DESCRIPTION":[
+      "你每打出一张成员牌，将一张 飞刀 置入你的手牌。",
+      "你每打出一张成员牌，将一张 飞刀+ 置入你的手牌。"
+    ]
+  },
+  "Hololive_Civia": {
+    "NAME": "希薇娅",
+    "DESCRIPTION":[
+      "攻击改为积累能量。 NL  #y结尾 ：对随机敌人造成等同于能量的伤害。",
+      "攻击改为积累能量。受伤时也积累能量。 NL  #y结尾 ：对随机敌人造成等同于能量的伤害。"
+    ]
+  },
+  "Hololive_SpadeEcho": {
+    "NAME": "黑桃影",
+    "DESCRIPTION":[
+      " #y开幕 ：抽一张牌。 NL  #y追击 ：获得2枚 金币 。",
+      " #y开幕 ：抽一张牌。获得 [E] 。 NL  #y追击 ：2枚的 金币 。"
+    ]
+  },
+  "Hololive_Ufubuki": {
+    "NAME": "黑下吸火",
+    "DESCRIPTION":[
+      "攻击2次。",
+      "攻击3次。"
+    ]
+  },
+  "Hololive_Rosalyn": {
+    "NAME": "罗莎琳",
+    "DESCRIPTION":[
+      " 攻击 改为打出抽牌堆顶一张牌的复制。",
+      " 攻击 改为打出抽牌堆顶一张牌的复制。"
+    ]
+  },
+  "Hololive_Artia": {
+    "NAME": "阿媂娅",
+    "DESCRIPTION":[
+      " #y结尾 ： 将一张 #y魔法：暴雪 加入你的手牌。",
+      " #y结尾 ： 将一张 #y魔法：暴雪+ 加入你的手牌。"
+    ]
+  },
+  "Hololive_Doris": {
+    "NAME": "朵莉丝",
+    "DESCRIPTION":[
+      "每回合开始时，获得 [E] 。",
+      "每回合开始时，获得 [E] 。 NL  开幕 ：获得 [E] 。"
+    ]
+  },
+  "Hololive_AyundaRisu": {
+    "NAME": "Ayunda Risu",
+    "DESCRIPTION":[
+      " 攻击 为随机造成等量的1点伤害。",
+      " 攻击 为随机造成等量的1点伤害。"
+    ]
+  },
+  "Hololive_MoonaHoshinova": {
+    "NAME": "Moona Hoshinova",
+    "DESCRIPTION":[
+      " #y开幕 ： #y选择 一张来自所有颜色的牌，打出一张复制。",
+      " #y开幕 ：从4张中 #y选择 一张来自所有颜色的牌，打出一张复制。"
+    ]
+  },
+  "Hololive_AiraniIofifteen": {
+    "NAME": "Airani Iofifteen",
+    "DESCRIPTION":[
+      "伤害到此为止。",
+      "伤害到此为止。"
+    ]
+  }
+}
